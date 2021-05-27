@@ -1,0 +1,1984 @@
+[
+  'ToDesk - 安全好用流畅远程控制软件 替代TeamViewer',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6T8Aa34L2z4I3wdMfjdE7w5N5TeAe33MDI1MDQ1MjEyLnBuZwO0O0OO0O0O',
+  '108.00-1999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/436  名字是
+[
+  'Varlens Pro: 微单级手机摄影软件 专业摄影 App',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYzMzM2ODY1LnBuZwO0O0OO0O0O',
+  '18.00-99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/435  名字是
+[
+  'NXPowerLite Desktop: 文档压缩批量瘦身工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYwMzI3MjE3LnBuZwO0O0OO0O0O',
+  '245.65-296.65'
+]
+这是地址：https://store.lizhi.io/site/products/id/434  名字是
+[
+  'Ashampoo Photo Commander: 多功能照片编辑管理器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQxNjA1MzU2LnBuZwO0O0OO0O0O',
+  '71.10'
+]
+这是地址：https://store.lizhi.io/site/products/id/433  名字是
+[
+  'Ashampoo Driver Updater: 专业驱动更新安装工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQwNjA0NzU2LnBuZwO0O0OO0O0O',
+  '62.10'
+]
+这是地址：https://store.lizhi.io/site/products/id/432  名字是
+[
+  'dotUltimate: JetBrains .NET开发工具合集 VS拓展',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia54L2z4I3wdMfjdE7w5M5zeIe53MDkxNzQ3OTk1LnBuZwO0O0OO0O0O',
+  '959.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/431  名字是
+[
+  'Ashampoo Backup Pro: 电脑数据备份 加密恢复软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Aa34L2z4I3wdMfjdE7w5N5DeAe33MDgxMzQzNTI3LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/430  名字是
+[
+  'Ashampoo PDF Pro: 通用PDF编辑器 文档转换加密',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDg1NTEzMjA1LnBuZwO0O0OO0O0O',
+  '139.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/429  名字是
+[
+  'Ashampoo WinOptimizer: 系统优化提速磁盘清理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDc1NTE4NDk5LnBuZwO0O0OO0O0O',
+  '129.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/428  名字是
+[
+  'MT 管理器: Android文件管理 APK逆向修改资源混淆',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ea34L2z4I3wdMfjdE7w5M5zeEe33MDk1MDEyODM4LnBuZwO0O0OO0O0O',
+  '19.00-125.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/427  名字是
+[
+  'WebStorm: JetBrains 智能JavaScript IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDkwNzM5NzA0LnBuZwO0O0OO0O0O',
+  '379.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/426  名字是
+[
+  'RubyMine: JetBrains Ruby与Rails多语言IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTI1OTQ3MzQxLnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/425  名字是
+[
+  'Rider: JetBrains 高速跨平台.NET IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTEyOTA5OTg3LnBuZwO0O0OO0O0O',
+  '899.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/424  名字是
+[
+  'ReSharper: JetBrains .NET开发Visual Studio扩展',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MjQxNzUxLnBuZwO0O0OO0O0O',
+  '829.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/423  名字是
+[
+  'PyCharm: JetBrains 专业级Python IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDQyMTIzMTA2LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/422  名字是
+[
+  'PhpStorm: JetBrains 高效智能PHP IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDUyMjIyNDQ5LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/421  名字是
+[
+  'GoLand: JetBrains 专业Go语言跨平台IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MDE1NzUyMjY2LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/420  名字是
+[
+  'DataGrip: JetBrains SQL多数据库IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTAwMTM3OTAwLnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/419  名字是
+[
+  'CLion: JetBrains 支持C/C++的跨平台IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MDU5MTg3LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/418  名字是
+[
+  'AppCode: JetBrains 适用iOS/macOS开发的智能IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTIwMTI3MzEwLnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+第 1页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/417  名字是
+[
+  'IntelliJ IDEA Ultimate: JetBrains Java IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aaz4L2z4I3wdMfjdA7w5M5zeAez3MTIwNjE5MTcwLnBuZwO0O0OO0O0O',
+  '959.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/416  名字是
+[
+  'JetBrains All Products Pack: 编程开发工具集',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aaz4L2z4I3wdMfjdA7w5M5zeAez3MTA1NzA4NjA4LnBuZwO0O0OO0O0O',
+  '1599.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/415  名字是
+[
+  '一个人工智能的诞生: 基本操作网站 交互视频课',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6j8Aa54L2z4I3wdMfjdE7w5M5jeAe53MDk1OTExNzA4LnBuZwO0O0OO0O0O',
+  '49.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/414  名字是
+[
+  'jpgHD: 人像图片无损变高清 老照片修复降噪放大',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6j8Aa34L2z4I3wdMfjdE7w5M5jeAe33MDUyNDQ5MTM4LnBuZwO0O0OO0O0O',
+  '30.00-180.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/413  名字是
+[
+  '福昕 PDF 365: 在线PDF转换压缩 文档编辑处理',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6j8Aaz4L2z4I3wdMfjdE7w5M5jeAez3MDUyOTA4MjI2LnBuZwO0O0OO0O0O',
+  '49.00-68.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/412  名字是
+[
+  '010 Editor: 十六进制编辑器 文本代码编辑',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ia34L2z4I3wdMfjdE7w5M5TeIe33MDk0OTUzNjMwLnBuZwO0O0OO0O0O',
+  '325.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/411  名字是
+[
+  'BitDock: Windows桌面美化 Mac风格Dock栏',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ia34L2z4I3wdMfjdE7w5M5TeIe33MDg0ODE2NDcyLnBuZwO0O0OO0O0O',
+  '1.00-99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/409  名字是
+[
+  '虫洞: iPhone安卓投屏操控 电脑手机多屏协同',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Iaw4L2z4I3wdMfjdE7w5M5TeIew3MDYzODU2NDIxLnBuZwO0O0OO0O0O',
+  '45.00-89.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/408  名字是
+[
+  '福昕会员: PDF 编辑转换 在线服务权益',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ea04L2z4I3wdMfjdE7w5M5TeEe03MDE0MzUzMzc4LnBuZwO0O0OO0O0O',
+  '79.00-595.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/407  名字是
+[
+  '福昕PDF阅读器（移动版）: PDF阅读编辑注释 PDF格式转换',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ea04L2z4I3wdMfjdE7w5M5TeEe03MDExNjQyNDg4LnBuZwO0O0OO0O0O',
+  '48.00-178.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/403  名字是
+[
+  'Advanced Password Recovery Suite: 密码恢复套件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Aa34L2z4I3wdMfjdE7w5M5TeAe33MDU0OTIyNzYzLnBuZwO0O0OO0O0O',
+  '69.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/402  名字是
+[
+  '蜜蜂剪辑: 轻量级视频剪辑软件 字幕特效素材',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Maw4L2z4I3wdMfjdA7x5M5jeMew3MTEwMTMxNDE2LnBuZwO0O0OO0O0O',
+  '48.30-139.30'
+]
+这是地址：https://store.lizhi.io/site/products/id/401  名字是
+[
+  '达芬奇配色: 设计师PS调色插件 在线配色库',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Maw4L2z4I3wdMfjdA7x5M5jeMew3MDY0MTI3OTg5LnBuZwO0O0OO0O0O',
+  '88.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/400  名字是
+[
+  'Seer: 空格键快速预览文件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ia04L2z4I3wdMfjdA7x5M5jeIe03MDYxNDI3OTgyLnBuZwO0O0OO0O0O',
+  '69.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/399  名字是
+[
+  '为知笔记个人版: 全能笔记工具 知识管理利器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ia04L2z4I3wdMfjdA7x5M5jeIe03MDM1MDI3MjU4LnBuZwO0O0OO0O0O',
+  '59.00-179.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/398  名字是
+[
+  '上首字体: 创意类美观字体 正版个人非商用字体',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ia04L2z4I3wdMfjdA7x5M5jeIe03MTA1NzAzNjQ0LnBuZwO0O0OO0O0O',
+  '79.00-398.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/397  名字是
+[
+  '极度公式: 专业Latex公式识别软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Iaz4L2z4I3wdMfjdA7x5M5jeIez3MDE0NTQwMjQ4LnBuZwO0O0OO0O0O',
+  '20.00-399.20'
+]
+这是地址：https://store.lizhi.io/site/products/id/396  名字是
+[
+  '稻壳儿会员: 海量文档 Office PPT Excel 模板素材 VIP 稻壳 月卡年卡',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eay4L2z4I3wdMfjdA7w5M5jeEey3MDM1MzAwODE5LnBuZwO0O0OO0O0O',
+  '15.00-89.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/393  名字是
+[
+  'ProtoPie: 手机应用原型工具 无需代码',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Eaw4L2z4I3wdMfjdA7x5M5jeEew3MDkxMTQ2ODY2LnBuZwO0O0OO0O0O',
+  '429.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/392  名字是
+[
+  '简悦: 浏览器阅读模式插件 知识管理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ea24L2z4I3wdMfjdA7x5M5jeEe23MDI1OTI5MTUxLnBuZwO0O0OO0O0O',
+  '16.00'
+]
+第 2页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/391  名字是
+[
+  '阅读记录: 阅读统计与笔记 读书辅助工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Aay4L2z4I3wdMfjdA7x5M5jeAey3MDk1NzAzNDI3LnBuZwO0O0OO0O0O',
+  '86.00-196.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/388  名字是
+[
+  'Realistic Paint Studio: 智能数字绘画软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6T8Ia14L2z4I3wdMfjdA7x5M5TeIe13MDgxNjQ5NjEzLnBuZwO0O0OO0O0O',
+  '125.00-165.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/386  名字是
+[
+  '3type 字体: 创新国际字体 多语言 多场景设计',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6T8Iaw4L2z4I3wdMfjdA7x5M5TeIew3MDQ0OTUyOTUzLnBuZwO0O0OO0O0O',
+  '99.00-399.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/384  名字是
+[
+  'Apowersoft Unlimited: 傲软旗下专业软件合集',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6D8Ia24L2z4I3wdMfjdA7x5M5DeIe23MDgyNDU2OTA2LnBuZwO0O0OO0O0O',
+  '174.30'
+]
+这是地址：https://store.lizhi.io/site/products/id/383  名字是
+[
+  'PickMeApp: 跨设备软件搬家卸载管理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6D8Ia24L2z4I3wdMfjdA7x5M5DeIe23MDYyNjAyNzQ3LnBuZwO0O0OO0O0O',
+  '69.00-299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/382  名字是
+[
+  'PixelSnap 2: 界面元素测量参考线 设计辅助工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6D8Ia24L2z4I3wdMfjdA7x5M5DeIe23MDUyOTUwNTQzLnBuZwO0O0OO0O0O',
+  '199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/381  名字是
+[
+  'CleanShot X: 截图录屏贴图 长截图标注分享工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6D8Iaz4L2z4I3wdMfjdA7x5M5DeIez3MTAzNTE5OTE4LnBuZwO0O0OO0O0O',
+  '149.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/377  名字是
+[
+  '捧读: 学日语语法结构分析 日文词性注解与翻译',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Ia44L2z4I3wdMfjdA7w5O5TeIe43MDQxMjM0NzA2LnBuZwO0O0OO0O0O',
+  '65.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/376  名字是
+[
+  'EasyShu: Excel图表专业插件 数据分析与可视化',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Ia14L2z4I3wdMfjdA7w5O5TeIe13MDcwNTQxNjM0LmpwZwO0O0OO0O0O',
+  '8.00-598.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/375  名字是
+[
+  '设计助理: PS设计插件 字体样式管理PSD模板库',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Iaz4L2z4I3wdMfjdA7w5O5TeIez3MTAwOTQwMTA4LnBuZwO0O0OO0O0O',
+  '79.00-238.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/374  名字是
+[
+  '墨刀: 产品原型交互设计工具 产品经理协作平台',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Ea24L2z4I3wdMfjdA7w5O5TeEe23MDQyODQ1ODAxLnBuZwO0O0OO0O0O',
+  '199.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/373  名字是
+[
+  'Mountain Duck: 多网盘挂载本地工具 文件同步',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa54L2z4I3wdMfjdA7w5O5TeAe53MDQwMjEzODk2LnBuZwO0O0OO0O0O',
+  '139.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/372  名字是
+[
+  'flowkey: 自学钢琴入门提升课 钢琴谱教学App',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa54L2z4I3wdMfjdA7w5O5TeAe53MDM0NDI4NzYzLnBuZwO0O0OO0O0O',
+  '98.00-1298.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/371  名字是
+[
+  'Nginx 核心知识 100 讲: 百万并发下的 Nginx 性能优化之道',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkyOTM3Mjc4LnBuZwO0O0OO0O0O',
+  '129.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/370  名字是
+[
+  '许式伟的架构课: 从源头出发，带你重新理解架构设计',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkyOTQ4NzA2LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/369  名字是
+[
+  '算法面试通关 40 讲: 前 Facebook 工程师带你吃透大厂面试题',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzMTA0MjEzLnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/368  名字是
+[
+  'Elasticsearch 核心技术与实战: 快速构建分布式搜索和分析引擎',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzMjUwODUyLnBuZwO0O0OO0O0O',
+  '129.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/367  名字是
+[
+  '趣谈 Linux 操作系统: 像故事一样的操作系统入门课',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzMzQyOTQ5LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/365  名字是
+[
+  'Go 语言核心 36 讲: 3 个月带你通关 Go 语言',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNTExOTQ2LnBuZwO0O0OO0O0O',
+  '79.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/364  名字是
+[
+  '程序员的数学基础课: 在实战中重新理解数学',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNTM1OTk2LnBuZwO0O0OO0O0O',
+  '79.00'
+]
+第 3页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/363  名字是
+[
+  '设计模式之美: 前 Google 工程师手把手教你写高质量代码',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNjA5OTU1LnBuZwO0O0OO0O0O',
+  '199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/362  名字是
+[
+  'Linux 性能优化实战: 10 分钟帮你找到系统瓶颈',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNjQyNjcxLnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/361  名字是
+[
+  '深入拆解 Java 虚拟机: Oracle 高级研究员手把手带你入门 JVM',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNzEzMjE3LnBuZwO0O0OO0O0O',
+  '79.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/360  名字是
+[
+  '玩转 Spring 全家桶: 一站通关 Spring、Spring Boot 与 Spring Cloud',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzODI2NjA0LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/359  名字是
+[
+  '深入剖析 Kubernetes: Kubernetes 原来可以如此简单',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzODQwMzAxLnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/358  名字是
+[
+  '重学前端: 每天 10 分钟，重构你的前端知识体系',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzOTA4OTk2LnBuZwO0O0OO0O0O',
+  '79.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/357  名字是
+[
+  '趣谈网络协议: 像小说一样的网络协议入门课',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzOTM2OTAwLnBuZwO0O0OO0O0O',
+  '79.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/356  名字是
+[
+  '从 0 开始学架构: 前阿里 P9 技术专家的实战架构心法',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzOTQ5MTc5LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/355  名字是
+[
+  '左耳听风: 洞悉技术的本质，享受科技的乐趣',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MDAxOTI3LnBuZwO0O0OO0O0O',
+  '199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/354  名字是
+[
+  'Java 核心技术面试精讲: 前 Oracle 首席工程师带你修炼 Java 内功',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MDIzNzQ1LnBuZwO0O0OO0O0O',
+  '79.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/353  名字是
+[
+  'MySQL 实战 45 讲: 从原理到实战，丁奇带你搞懂 MySQL',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MTE2NjMxLnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/352  名字是
+[
+  '数据结构与算法之美: 为工程师量身打造的数据结构与算法私教课',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MTI5MjY5LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/351  名字是
+[
+  'Auto Mail Sender: 邮件自动发送器 定时发件调度',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Ia24L2z4I3wdMfjdA7w5O5DeIe23MTE0NzIxMzg0LnBuZwO0O0OO0O0O',
+  '29.00-1599.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/350  名字是
+[
+  '色采: 手机取色智能配色助手 设计色卡管理',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Eay4L2z4I3wdMfjdA7w5O5DeEey3MDgzNjQyOTk1LnBuZwO0O0OO0O0O',
+  '8.00-70.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/349  名字是
+[
+  '潮汐: 冥想专注番茄钟 呼吸放松白噪音助眠App',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Eay4L2z4I3wdMfjdA7w5O5DeEey3MDQ1NzA3NzAwLnBuZwO0O0OO0O0O',
+  '8.00-178.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/347  名字是
+[
+  '50音起源: 0基础日语入门 五十音图假名学习App',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Aa14L2z4I3wdMfjdA7w5O5DeAe13MDU1MDAwODgxLnBuZwO0O0OO0O0O',
+  '12.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/346  名字是
+[
+  'WinExt: Windows注册表修复 系统清理隐私保护工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Aa14L2z4I3wdMfjdA7w5O5DeAe13MDQ0MjAwNjQ3LnBuZwO0O0OO0O0O',
+  '79.00-299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/345  名字是
+[
+  'Bandizip: 文件解压缩 压缩包浏览编辑管理工具 企业版',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Ia24L2z4I3wdMfjdA7w5M5zeIe23MDIxMzMyMzE5LnBuZwO0O0OO0O0O',
+  '266.00-99999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/344  名字是
+[
+  'Dislike: 日常生活待办及提醒清单 日程规划',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ia54L2z4I3wdMfjdA7w5N5zeIe53MTAwODA1NDQxLnBuZwO0O0OO0O0O',
+  '15.00-168.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/343  名字是
+[
+  '红线: 化妆品管理工具 保存使用记录过期提醒',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ia54L2z4I3wdMfjdA7w5N5zeIe53MDkxODM1ODAyLnBuZwO0O0OO0O0O',
+  '22.50'
+]
+第 4页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/342  名字是
+[
+  'WindowTop: 窗口置顶透明度修改工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Iay4L2z4I3wdMfjdA7w5N5zeIey3MDY0NjU2NDY5LnBuZwO0O0OO0O0O',
+  '39.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/341  名字是
+[
+  'QQ音乐会员',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea34L2z4I3wdMfjdA7w5N5zeEe33MDM1MjAwNTM5LnBuZwO0O0OO0O0O',
+  '8.00-168.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/340  名字是
+[
+  '优酷视频会员',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea34L2z4I3wdMfjdA7w5N5zeEe33MTE0NTI2NjI1LnBuZwO0O0OO0O0O',
+  '8.50-299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/339  名字是
+[
+  '芒果TV视频会员',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea14L2z4I3wdMfjdA7w5N5zeEe13MDc0MTQ2OTU4LnBuZwO0O0OO0O0O',
+  '5.00-299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/338  名字是
+[
+  '爱奇艺视频会员',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea14L2z4I3wdMfjdA7w5N5zeEe13MDEyNjA1NzA3LnBuZwO0O0OO0O0O',
+  '12.00-618.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/336  名字是
+[
+  '补差价专用',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea04L2z4I3wdMfjdA7w5N5zeEe03MTAxMDUxODYwLnBuZwO0O0OO0O0O',
+  '1.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/335  名字是
+[
+  'Microsoft 365 一对一服务（含视频教程+软件体验）',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Eaw4L2z4I3wdMfjdA7w5N5zeEew3MDUzMzMzOTkzLnBuZwO0O0OO0O0O',
+  '99.00-319.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/333  名字是
+[
+  'Moment: 倒数日时间进度 纪念日提醒工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Aa44L2z4I3wdMfjdA7w5N5zeAe43MDI1NjQ5ODgyLnBuZwO0O0OO0O0O',
+  '21.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/332  名字是
+[
+  'OpenWebMonitor: 网页内容监控器 变化实时通知',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Ia04L2z4I3wdMfjdA7w5N5jeIe03MTAwMjExNTk5LnBuZwO0O0OO0O0O',
+  '25.00-749.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/331  名字是
+[
+  'irreader: 跨平台RSS阅读器 网站播客聚合订阅',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Ia04L2z4I3wdMfjdA7w5N5jeIe03MDkwNTI1ODYxLnBuZwO0O0OO0O0O',
+  '12.00-299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/330  名字是
+[
+  'RadiAnt DICOM Viewer: X光线CT医学图像PACS浏览器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Ia04L2z4I3wdMfjdA7w5N5jeIe03MDcwNDQ4OTU1LnBuZwO0O0OO0O0O',
+  '58.00-1299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/325  名字是
+[
+  'IDM - Windows高速下载软件 internet download manager',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEyNDQyMzg1LnBuZwO0O0OO0O0O',
+  '3.00-129.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/324  名字是
+[
+  'Guitar Pro 7: 吉他/贝斯打谱识谱软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Aay4L2z4I3wdMfjdA7w5N5jeAey3MTIwNjI3MTM1LnBuZwO0O0OO0O0O',
+  '199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/322  名字是
+[
+  '20秒护眼: 软件屏幕亮度调节app注册激活码支持安卓',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6T8Ia34L2z4I3wdMfjdA7w5N5TeIe33MDIyNDUyMjY5LnBuZwO0O0OO0O0O',
+  '5.00-10.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/321  名字是
+[
+  '远离手机: 自律专注App 强制锁定手机减少依赖',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6T8Iaw4L2z4I3wdMfjdA7w5N5TeIew3MDYzOTE2ODQ3LnBuZwO0O0OO0O0O',
+  '10.00-74.25'
+]
+这是地址：https://store.lizhi.io/site/products/id/319  名字是
+[
+  'Soulver 3: 智能记事本 自然语义计算器 单位换算',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6T8Eaz4L2z4I3wdMfjdA7w5N5TeEez3MTEzNzE1MzQwLnBuZwO0O0OO0O0O',
+  '95.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/317  名字是
+[
+  '冰箱 Ice Box: 冻结流氓应用 省电防止后台运行',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6D8Ia54L2z4I3wdMfjdA7w5N5DeIe53MDIyMDE0MTA3LnBuZwO0O0OO0O0O',
+  '25.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/316  名字是
+[
+  '通知滤盒 Filter Box: 手机通知管理 过滤分析工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6D8Ia54L2z4I3wdMfjdA7w5N5DeIe53MDIwNjE4MzQ5LnBuZwO0O0OO0O0O',
+  '30.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/315  名字是
+[
+  '极度扫描: 跨平台OCR图片转文字 表格识别翻译',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6D8Ia54L2z4I3wdMfjdA7w5N5DeIe53MDEzMTU2MTQ2LnBuZwO0O0OO0O0O',
+  '4.00-38.40'
+]
+这是地址：https://store.lizhi.io/site/products/id/314  名字是
+[
+  '密码键盘: 安全的密码管理器 可离线自动填充',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6D8Ea14L2z4I3wdMfjdA7w5N5DeEe13MTEzMjA1NDYzLnBuZwO0O0OO0O0O',
+  '15.00-82.00'
+]
+555555
+
+[
+  'ToDesk - 安全好用流畅远程控制软件 替代TeamViewer',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6T8Aa34L2z4I3wdMfjdE7w5N5TeAe33MDI1MDQ1MjEyLnBuZwO0O0OO0O0O',
+  '108.00-1999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/436  名字是
+[
+  'Varlens Pro: 微单级手机摄影软件 专业摄影 App',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYzMzM2ODY1LnBuZwO0O0OO0O0O',
+  '18.00-99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/435  名字是
+[
+  'NXPowerLite Desktop: 文档压缩批量瘦身工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYwMzI3MjE3LnBuZwO0O0OO0O0O',
+  '245.65-296.65'
+]
+这是地址：https://store.lizhi.io/site/products/id/434  名字是
+[
+  'Ashampoo Photo Commander: 多功能照片编辑管理器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQxNjA1MzU2LnBuZwO0O0OO0O0O',
+  '71.10'
+]
+这是地址：https://store.lizhi.io/site/products/id/433  名字是
+[
+  'Ashampoo Driver Updater: 专业驱动更新安装工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQwNjA0NzU2LnBuZwO0O0OO0O0O',
+  '62.10'
+]
+这是地址：https://store.lizhi.io/site/products/id/432  名字是
+[
+  'dotUltimate: JetBrains .NET开发工具合集 VS拓展',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia54L2z4I3wdMfjdE7w5M5zeIe53MDkxNzQ3OTk1LnBuZwO0O0OO0O0O',
+  '959.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/431  名字是
+[
+  'Ashampoo Backup Pro: 电脑数据备份 加密恢复软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Aa34L2z4I3wdMfjdE7w5N5DeAe33MDgxMzQzNTI3LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/430  名字是
+[
+  'Ashampoo PDF Pro: 通用PDF编辑器 文档转换加密',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDg1NTEzMjA1LnBuZwO0O0OO0O0O',
+  '139.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/429  名字是
+[
+  'Ashampoo WinOptimizer: 系统优化提速磁盘清理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDc1NTE4NDk5LnBuZwO0O0OO0O0O',
+  '129.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/428  名字是
+[
+  'MT 管理器: Android文件管理 APK逆向修改资源混淆',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ea34L2z4I3wdMfjdE7w5M5zeEe33MDk1MDEyODM4LnBuZwO0O0OO0O0O',
+  '19.00-125.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/427  名字是
+[
+  'WebStorm: JetBrains 智能JavaScript IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDkwNzM5NzA0LnBuZwO0O0OO0O0O',
+  '379.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/426  名字是
+[
+  'RubyMine: JetBrains Ruby与Rails多语言IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTI1OTQ3MzQxLnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/425  名字是
+[
+  'Rider: JetBrains 高速跨平台.NET IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTEyOTA5OTg3LnBuZwO0O0OO0O0O',
+  '899.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/424  名字是
+[
+  'ReSharper: JetBrains .NET开发Visual Studio扩展',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MjQxNzUxLnBuZwO0O0OO0O0O',
+  '829.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/423  名字是
+[
+  'PyCharm: JetBrains 专业级Python IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDQyMTIzMTA2LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/422  名字是
+[
+  'PhpStorm: JetBrains 高效智能PHP IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDUyMjIyNDQ5LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/421  名字是
+[
+  'GoLand: JetBrains 专业Go语言跨平台IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MDE1NzUyMjY2LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/420  名字是
+[
+  'DataGrip: JetBrains SQL多数据库IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTAwMTM3OTAwLnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/419  名字是
+[
+  'CLion: JetBrains 支持C/C++的跨平台IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MDU5MTg3LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/418  名字是
+[
+  'AppCode: JetBrains 适用iOS/macOS开发的智能IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTIwMTI3MzEwLnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+第 6页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/274  名字是
+[
+  'Affinity Photo: 专业图像编辑工具 支持PSD',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eay4L2z4I3wdMfjdA7w5M5jeEey3MDM0OTEzNzYzLnBuZwO0O0OO0O0O',
+  '299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/273  名字是
+[
+  'Snipaste:  专业截屏贴图 标注取色工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eay4L2z4I3wdMfjdA7w5M5jeEey3MDM0MzIyMTQ5LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/271  名字是
+[
+  'One Switch: 菜单栏便捷开关 快速切换设置工具软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eay4L2z4I3wdMfjdA7w5M5jeEey3MDMxNjU3NDg0LnBuZwO0O0OO0O0O',
+  '20.30-69.30'
+]
+这是地址：https://store.lizhi.io/site/products/id/270  名字是
+[
+  'Klib: Kindle 多看标注管理 书摘笔记导出工具软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eay4L2z4I3wdMfjdA7w5M5jeEey3MDMxMzMzODUxLnBuZwO0O0OO0O0O',
+  '98.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/269  名字是
+[
+  'CleanMyPC - Windows系统垃圾清理优化软件 激活码',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwOTUzNDk2LnBuZwO0O0OO0O0O',
+  '199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/268  名字是
+[
+  'Gemini 2: 重复文件查找/清理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwODM1OTg4LnBuZwO0O0OO0O0O',
+  '119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/267  名字是
+[
+  'ZOC Terminal: 专业终端模拟器SSH/Telnet',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwMzM3MjYxLnBuZwO0O0OO0O0O',
+  '569.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/264  名字是
+[
+  'Zentimo: U盘/移动设备管理工具移除设备更安全快速',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1ODI3NzE4LnBuZwO0O0OO0O0O',
+  '79.00-149.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/263  名字是
+[
+  'XYplorer: 强大便携的多标签文件管理器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1NTUzNDU1LnBuZwO0O0OO0O0O',
+  '119.00-229.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/262  名字是
+[
+  'XMind 8 Pro: 结构树状逻辑图思维导图脑图软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1NDE1OTE1LnBuZwO0O0OO0O0O',
+  '629.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/261  名字是
+[
+  'Workspaces 2: 在一处聚合项目资源 支持多种格式类型',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Iay4L2z4I3wdMfjdE7w5M5TeIey3MDM0OTQ0NTAyLnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/260  名字是
+[
+  'WinEdt for Win: 专业LaTeX通用文本/公式编辑器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1MTIyODczLnBuZwO0O0OO0O0O',
+  '169.00-219.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/259  名字是
+[
+  'WALTR 2: 更好的iOS多媒体传输解决方案',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE0OTQzNzE0LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/258  名字是
+[
+  'VueMinder 专业版: 桌面日历提醒工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE0NzExOTc1LnBuZwO0O0OO0O0O',
+  '119.00-249.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/257  名字是
+[
+  'VueMinder 旗舰版: 桌面日历提醒工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE0MTExNjYwLnBuZwO0O0OO0O0O',
+  '199.00-399.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/256  名字是
+[
+  'VoiceBot: 用语音命令操控 游戏 程序',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDEzODM3MTg3LnBuZwO0O0OO0O0O',
+  '49.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/254  名字是
+[
+  'UltraEdit Suite: 文本编辑/文件管理套件 All Access',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDExODA2ODY5LnBuZwO0O0OO0O0O',
+  '379.00-1199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/253  名字是
+[
+  'UltraEdit Bundle: 代码编辑器和文件对比工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDEwNzQxNjA4LnBuZwO0O0OO0O0O',
+  '309.00-759.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/252  名字是
+[
+  'UltraEdit: 跨平台文本编辑 支持多种字符编码',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDEwNTU0MzE1LnBuZwO0O0OO0O0O',
+  '279.00-699.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/251  名字是
+[
+  'UltraCompare: 文件/文件夹区别对比工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTI1ODU1NzY3LnBuZwO0O0OO0O0O',
+  '319.00'
+]
+第 7页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/250  名字是
+[
+  'UEStudio Suite: 代码编辑器 文件管理/传输套件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTI1MzMxMTA1LnBuZwO0O0OO0O0O',
+  '1259.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/249  名字是
+[
+  'UEStudio: 是文本编辑器 更是强大的IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTI1MDA1NzEzLnBuZwO0O0OO0O0O',
+  '339.00-879.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/248  名字是
+[
+  'uBar 4: 为Mac配一个Win风格任务栏',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTI0MTM5MjczLnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/247  名字是
+[
+  'Typinator: 常用语句快速输入神器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIyMzA5NDg4LnBuZwO0O0OO0O0O',
+  '119.00-179.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/245  名字是
+[
+  'Trym: 轻量级 SVG 图标转换/优化工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIxOTU3MzI1LnBuZwO0O0OO0O0O',
+  '19.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/243  名字是
+[
+  'Trim Enabler 4: 平衡SSD磨损 提高数据写入效率',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIxNjA0OTYwLnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/242  名字是
+[
+  'TrayStatus: 让任务栏显示系统状态',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIxNDE3Mjg5LnBuZwO0O0OO0O0O',
+  '49.00-5999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/240  名字是
+[
+  'TotalSpaces: 网格式桌面管理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIwMjI0Njc5LnBuZwO0O0OO0O0O',
+  '79.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/239  名字是
+[
+  'TotalFinder: 为 Finder/访达添加标签管理',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIwMDUxMjc1LnBuZwO0O0OO0O0O',
+  '79.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/238  名字是
+[
+  'TidyTabs: 用标签管理所有窗口 屏幕更整洁',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA1NjQzNjExLnBuZwO0O0OO0O0O',
+  '54.00-1499.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/237  名字是
+[
+  'TaskPaper: 纯文本GTD工具 支持 JavaScript',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA1NDIwMzIwLnBuZwO0O0OO0O0O',
+  '119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/236  名字是
+[
+  'tagLyst Next: 标签式资料文件收集管理软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA1MTQzOTA4LnBuZwO0O0OO0O0O',
+  '48.30-118.30'
+]
+这是地址：https://store.lizhi.io/site/products/id/235  名字是
+[
+  'TablePlus: 安全可靠的高性能数据库开发工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA0OTU0OTY0LnBuZwO0O0OO0O0O',
+  '349.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/234  名字是
+[
+  'SyncMate: 易用的个人信息多设备同步工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA0ODMwNzE5LnBuZwO0O0OO0O0O',
+  '89.00-179.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/233  名字是
+[
+  'StartIsBack: 仿WIN7开始菜单',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA0NDI0NDQyLnBuZwO0O0OO0O0O',
+  '35.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/232  名字是
+[
+  'SQLPro Studio: 支持SQLite/MySQL/Postgres/MSSQL',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM1NzEzNDY0LnBuZwO0O0OO0O0O',
+  '499.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/231  名字是
+[
+  'SQLPro: 支持 SQLite/MySQL/Postgres/MSSQL',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM1MzQ1MjUyLnBuZwO0O0OO0O0O',
+  '119.00-299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/230  名字是
+[
+  'SpyShelter Premium: 反间谍击键加密保护工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM1MDM0MzA4LnBuZwO0O0OO0O0O',
+  '149.00-649.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/229  名字是
+[
+  'SpyShelter Firewall: 网络防火墙+击键加密',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM0NzUwMjE1LnBuZwO0O0OO0O0O',
+  '169.00-799.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/228  名字是
+[
+  'Spotless: 自动化文件整理工具分类管理',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM0NDEwNTY5LnBuZwO0O0OO0O0O',
+  '79.00'
+]
+第 8页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/227  名字是
+[
+  'Speccy: 来自CCleaner开发商的硬件检测工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM0MTU4MjQ4LnBuZwO0O0OO0O0O',
+  '149.00-199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/226  名字是
+[
+  'Sound Control 2: 控制系统应用音量 预设均衡器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6D8Iay4L2z4I3wdMfjdA7w5N5DeIey3MDMwMzU3Nzk1LnBuZwO0O0OO0O0O',
+  '65.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/225  名字是
+[
+  'SmoothScroll: 让鼠标滚动操作变得更顺滑流畅',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMzODI0ODgxLnBuZwO0O0OO0O0O',
+  '65.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/224  名字是
+[
+  'SideNotes: 侧边栏笔记工具 支持 Markdown',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMzNTQyMjU0LnBuZwO0O0OO0O0O',
+  '119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/223  名字是
+[
+  'Short Menu: 支持 t.cn 的短链接生成工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMzMzUyODI5LnBuZwO0O0OO0O0O',
+  '29.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/222  名字是
+[
+  'Shadow Defender: 影子卫士 重启还原系统',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMzMTM2OTI1LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/221  名字是
+[
+  'Scrivener 3: 跨平台长文写作利器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMyOTE5NjEzLnBuZwO0O0OO0O0O',
+  '269.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/220  名字是
+[
+  'ScreenFocus: 在多显示器下保持专注的效率工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMyNzQ4NzI2LnBuZwO0O0OO0O0O',
+  '49.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/219  名字是
+[
+  'Scapple: 轻量级思维导图脑图软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMyMjM5MzY0LnBuZwO0O0OO0O0O',
+  '109.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/217  名字是
+[
+  'Right Click Enhancer: 右键菜单编辑管理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMxOTAwNzU3LnBuZwO0O0OO0O0O',
+  '69.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/213  名字是
+[
+  'Recuva: 来自CCleaner开发商 误删/丢失数据恢复',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMxMDU1NjM2LnBuZwO0O0OO0O0O',
+  '199.00-269.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/212  名字是
+[
+  'QuartzCode: 将动画转化 ObjC/Swift 代码',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMwODM3NzIwLnBuZwO0O0OO0O0O',
+  '259.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/211  名字是
+[
+  'Qbserve: 具备专注模式的时间追踪器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMwNTAwMjkyLnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/210  名字是
+[
+  'Proxifier - 多平台网络转发定向软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDI0NzQwOTE2LnBuZwO0O0OO0O0O',
+  '199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/209  名字是
+[
+  'Process Lasso 商业版 : 服务器进程优化工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDI0NTE1MTI5LnBuZwO0O0OO0O0O',
+  '399.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/208  名字是
+[
+  'Process Lasso 专业版: 实时优化系统 告别卡顿',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIzMjUzMTk1LnBuZwO0O0OO0O0O',
+  '59.00-159.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/207  名字是
+[
+  'priPrinter: 虚拟打印工具 FinePrint替代品',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIzMDM4MTYxLnBuZwO0O0OO0O0O',
+  '119.00-299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/206  名字是
+[
+  'PopChar: 老牌的字体字符浏览器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIyNzQwOTcwLnBuZwO0O0OO0O0O',
+  '149.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/205  名字是
+[
+  'Picture Cutout Guide: 简单易用的抠图工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIyNTU3Mjg4LnBuZwO0O0OO0O0O',
+  '109.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/204  名字是
+[
+  'PicPick: 全功能的截图截屏/编辑工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIyNDI4NDgyLnBuZwO0O0OO0O0O',
+  '149.00'
+]
+第 9页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/202  名字是
+[
+  'PhotoBulk: 极简一键批量图片处理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIxMDUyNjQ3LnBuZwO0O0OO0O0O',
+  '85.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/201  名字是
+[
+  'PDF Squeezer: 轻量级PDF压缩工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Eax4L2z4I3wdMfjdA7w5N5jeEex3MDMyOTM2MTc3LnBuZwO0O0OO0O0O',
+  '45.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/200  名字是
+[
+  'PDF Protector: 简单易用的PDF文件加密工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwNzI3Mjc0LnBuZwO0O0OO0O0O',
+  '45.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/199  名字是
+[
+  'PDF Image Extraction Wizard: PDF批量导出图片',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwNTMxNDYyLnBuZwO0O0OO0O0O',
+  '49.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/197  名字是
+[
+  'Paw: 全功能HTTP客户端工具 高级API开发测试软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwMTQyMzc4LnBuZwO0O0OO0O0O',
+  '249.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/196  名字是
+[
+  'ParkControl: 从底层实时优化电脑 预防卡顿',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1OTQ2MjM2LnBuZwO0O0OO0O0O',
+  '29.00-49.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/194  名字是
+[
+  'Paintstorm Studio: 多格式数字绘画工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1MzMwMjY2LnBuZwO0O0OO0O0O',
+  '149.00-199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/193  名字是
+[
+  'PaintCode: 生成矢量图形代码 支持多种编程语言',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1MDIzODU0LnBuZwO0O0OO0O0O',
+  '579.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/192  名字是
+[
+  'NetLimiter: 专业网络流量限速与防火墙工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE0NzA5MTMyLnBuZwO0O0OO0O0O',
+  '79.00-109.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/190  名字是
+[
+  'MWeb: 写作/笔记/博客工具 支持Markdown格式',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE0MjUwMzM2LnBuZwO0O0OO0O0O',
+  '119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/184  名字是
+[
+  'MindMaster: 多平台思维导图脑图软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTE0NzEzODgzLnBuZwO0O0OO0O0O',
+  '579.00-779.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/183  名字是
+[
+  'Micro Snitch: 摄像头/麦克风防监控工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTE0NDM3NDA1LnBuZwO0O0OO0O0O',
+  '29.00-119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/182  名字是
+[
+  'Mailbird: 精致与高效并存的第三方邮件客户端',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTE0MjIxNjEwLnBuZwO0O0OO0O0O',
+  '179.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/181  名字是
+[
+  'Macrium Reflect企业版: 静默执行备份还原支持UEFI',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgzODQ0MTU3LnBuZwO0O0OO0O0O',
+  '229.00-2699.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/180  名字是
+[
+  'Macrium Reflect家庭版: 静默执行备份还原支持UEFI',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgzNDAxOTIzLnBuZwO0O0OO0O0O',
+  '199.00-399.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/178  名字是
+[
+  'Macgo Blu-ray Player Pro: 蓝光BD播放器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgyNzE1NDc0LnBuZwO0O0OO0O0O',
+  '299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/177  名字是
+[
+  '落格输入法 2: 双拼自定义码表辅码方案拼音五笔',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgyNTE0NjU1LnBuZwO0O0OO0O0O',
+  '59.00-99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/176  名字是
+[
+  'Little Snitch 5: 防火墙 一手掌控网络连接',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgyMzUzNjQ2LnBuZwO0O0OO0O0O',
+  '259.00-469.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/175  名字是
+[
+  'LaunchBar: 键盘快捷启动与效率工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgyMTUxMTk3LnBuZwO0O0OO0O0O',
+  '169.00-279.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/174  名字是
+[
+  'Kutools for Word: 文本增强辅助插件 提高效率',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ia14L2z4I3wdMfjdA7x5M5jeIe13MDExMjIzMTM1LnBuZwO0O0OO0O0O',
+  '119.00'
+]
+
+101010101010101010页
+
+
+[
+  'ToDesk - 安全好用流畅远程控制软件 替代TeamViewer',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6T8Aa34L2z4I3wdMfjdE7w5N5TeAe33MDI1MDQ1MjEyLnBuZwO0O0OO0O0O',
+  '108.00-1999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/436  名字是
+[
+  'Varlens Pro: 微单级手机摄影软件 专业摄影 App',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYzMzM2ODY1LnBuZwO0O0OO0O0O',
+  '18.00-99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/435  名字是
+[
+  'NXPowerLite Desktop: 文档压缩批量瘦身工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYwMzI3MjE3LnBuZwO0O0OO0O0O',
+  '245.65-296.65'
+]
+这是地址：https://store.lizhi.io/site/products/id/434  名字是
+[
+  'Ashampoo Photo Commander: 多功能照片编辑管理器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQxNjA1MzU2LnBuZwO0O0OO0O0O',
+  '71.10'
+]
+这是地址：https://store.lizhi.io/site/products/id/433  名字是
+[
+  'Ashampoo Driver Updater: 专业驱动更新安装工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQwNjA0NzU2LnBuZwO0O0OO0O0O',
+  '62.10'
+]
+这是地址：https://store.lizhi.io/site/products/id/432  名字是
+[
+  'dotUltimate: JetBrains .NET开发工具合集 VS拓展',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia54L2z4I3wdMfjdE7w5M5zeIe53MDkxNzQ3OTk1LnBuZwO0O0OO0O0O',
+  '959.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/431  名字是
+[
+  'Ashampoo Backup Pro: 电脑数据备份 加密恢复软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Aa34L2z4I3wdMfjdE7w5N5DeAe33MDgxMzQzNTI3LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/430  名字是
+[
+  'Ashampoo PDF Pro: 通用PDF编辑器 文档转换加密',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDg1NTEzMjA1LnBuZwO0O0OO0O0O',
+  '139.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/429  名字是
+[
+  'Ashampoo WinOptimizer: 系统优化提速磁盘清理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDc1NTE4NDk5LnBuZwO0O0OO0O0O',
+  '129.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/428  名字是
+[
+  'MT 管理器: Android文件管理 APK逆向修改资源混淆',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ea34L2z4I3wdMfjdE7w5M5zeEe33MDk1MDEyODM4LnBuZwO0O0OO0O0O',
+  '19.00-125.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/427  名字是
+[
+  'WebStorm: JetBrains 智能JavaScript IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDkwNzM5NzA0LnBuZwO0O0OO0O0O',
+  '379.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/426  名字是
+[
+  'RubyMine: JetBrains Ruby与Rails多语言IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTI1OTQ3MzQxLnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/425  名字是
+[
+  'Rider: JetBrains 高速跨平台.NET IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTEyOTA5OTg3LnBuZwO0O0OO0O0O',
+  '899.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/424  名字是
+[
+  'ReSharper: JetBrains .NET开发Visual Studio扩展',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MjQxNzUxLnBuZwO0O0OO0O0O',
+  '829.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/423  名字是
+[
+  'PyCharm: JetBrains 专业级Python IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDQyMTIzMTA2LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/422  名字是
+[
+  'PhpStorm: JetBrains 高效智能PHP IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDUyMjIyNDQ5LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/421  名字是
+[
+  'GoLand: JetBrains 专业Go语言跨平台IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MDE1NzUyMjY2LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/420  名字是
+[
+  'DataGrip: JetBrains SQL多数据库IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTAwMTM3OTAwLnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/419  名字是
+[
+  'CLion: JetBrains 支持C/C++的跨平台IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MDU5MTg3LnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/418  名字是
+[
+  'AppCode: JetBrains 适用iOS/macOS开发的智能IDE',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTIwMTI3MzEwLnBuZwO0O0OO0O0O',
+  '579.00-9999.00'
+]
+第 10页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/173  名字是
+[
+  'Kutools for Outlook: 邮箱软件增强插件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ia14L2z4I3wdMfjdA7x5M5jeIe13MDExMjM2NTExLnBuZwO0O0OO0O0O',
+  '119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/172  名字是
+[
+  'Kutools for Excel: 表格增强辅助插件 提高效率',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ia14L2z4I3wdMfjdA7x5M5jeIe13MDExMjUxODU1LnBuZwO0O0OO0O0O',
+  '119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/171  名字是
+[
+  'KeyCue: 快捷键辅助工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgxNTQzODA3LnBuZwO0O0OO0O0O',
+  '99.00-149.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/170  名字是
+[
+  'Iris Pro: 防止用眼疲劳 保护视力和健康 护眼',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgxNDE4NjEwLnBuZwO0O0OO0O0O',
+  '79.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/169  名字是
+[
+  'iRingg: iPhone铃声制作导入编辑',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgxMjUzNDQyLnBuZwO0O0OO0O0O',
+  '69.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/168  名字是
+[
+  'Inpaint: 图片去水印修复工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgxMTA2NDI5LnBuZwO0O0OO0O0O',
+  '129.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/167  名字是
+[
+  'Inboard: 图片素材管理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgwOTI3ODg0LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/166  名字是
+[
+  'Image Resize Guide: 智能缩放图片大小尺寸',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgwNzUzMzY3LnBuZwO0O0OO0O0O',
+  '109.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/164  名字是
+[
+  'Honeycam: GIF图片创建与编辑工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDc1ODI2NTQxLnBuZwO0O0OO0O0O',
+  '165.00-294.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/163  名字是
+[
+  'HistoryHound: 本地浏览网页历史记录搜索工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDc1NjMzNjg3LnBuZwO0O0OO0O0O',
+  '119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/162  名字是
+[
+  'Hider 2: 私密文件保险箱 本地数据加密工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDc1NTAxMzMwLnBuZwO0O0OO0O0O',
+  '119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/161  名字是
+[
+  'HFS for Windows 11: 读写HFS/HFS+格式工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDc0NzE1MzU1LnBuZwO0O0OO0O0O',
+  '119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/160  名字是
+[
+  'HazeOver: 虚化背景 专注当前任务窗口',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Aa24L2z4I3wdMfjdE7w5N5DeAe23MTExMTM0MjAyLnBuZwO0O0OO0O0O',
+  '29.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/159  名字是
+[
+  'Haptic Touch Bar: 为 Touch Bar 添加震动反馈',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDc0NDI1NTQyLnBuZwO0O0OO0O0O',
+  '39.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/158  名字是
+[
+  'Hands Off!: 防火墙工具 监控全局网络磁盘活动',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDc0MjE2NDk4LnBuZwO0O0OO0O0O',
+  '159.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/157  名字是
+[
+  'G DATA 单用户版: 提供更好的性能和反病毒安全保护',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDczNzI2NDgwLnBuZwO0O0OO0O0O',
+  '59.00-169.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/155  名字是
+[
+  'Gilisoft File Lock Pro: 文件加密工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDczMjE2NDcwLnBuZwO0O0OO0O0O',
+  '69.00-129.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/154  名字是
+[
+  '福昕PDF编辑器: 高效文档编辑、合并、转换、水印',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDcyODE5MzM4LnBuZwO0O0OO0O0O',
+  '199.00-599.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/153  名字是
+[
+  '福昕高级PDF编辑器: OCR文字识别 格式转换',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDcxNjE3NzAwLnBuZwO0O0OO0O0O',
+  '239.00-859.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/152  名字是
+[
+  '福昕PDF转Word: 批量格式转换软件 快速精准',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDcwOTAwMzI0LnBuZwO0O0OO0O0O',
+  '39.00-99.00'
+]
+第 11页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/151  名字是
+[
+  'FolderMill: 企业文档自动处理打印办公文件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTA1NzI5MjQ2LnBuZwO0O0OO0O0O',
+  '3499.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/150  名字是
+[
+  'Filmora 国际版: 高效视频编辑/创作/制作工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTA1NTE4NzgyLnBuZwO0O0OO0O0O',
+  '229.00-339.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/149  名字是
+[
+  'FilePane: 自定义文件快捷处理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTA1MjQyNzIxLnBuZwO0O0OO0O0O',
+  '35.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/148  名字是
+[
+  'FileLocator Pro - 全文检索 文件搜索软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTA1MTAxNTQ0LnBuZwO0O0OO0O0O',
+  '369.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/146  名字是
+[
+  'Expressions: 简洁优雅的正则表达式利器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTA0MjMwOTk0LnBuZwO0O0OO0O0O',
+  '55.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/141  名字是
+[
+  '亿图图示: 强大的图形图表设计工具 Edraw',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTAwMDAxMzgyLnBuZwO0O0OO0O0O',
+  '379.00-779.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/140  名字是
+[
+  '亿图信息图: 包含海量素材，省时高效 Edraw',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDcxMTMxMjk2LnBuZwO0O0OO0O0O',
+  '279.00-679.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/139  名字是
+[
+  'DU Meter: 网络流量监控工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYyMjM5NjA2LnBuZwO0O0OO0O0O',
+  '69.00-149.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/138  名字是
+[
+  'Duplicate Cleaner Pro: 重复文件清理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYyMDA3ODMyLnBuZwO0O0OO0O0O',
+  '79.00-169.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/137  名字是
+[
+  'DisplayFusion Pro: 窗口定制 多屏/显示器管理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYxMTQwMzYxLnBuZwO0O0OO0O0O',
+  '149.00-269.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/136  名字是
+[
+  'Disk Drill Pro: 数据恢复/误删文件找回',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYwNzMyNDg5LnBuZwO0O0OO0O0O',
+  '249.00-299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/135  名字是
+[
+  'Directory Opus: 更易用的文件管理器 媲美 TC',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYwMzU5MTAwLnBuZwO0O0OO0O0O',
+  '179.00-259.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/134  名字是
+[
+  'DFX Audio Enhancer: 专业音效增强工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYwMTI5MjAxLnBuZwO0O0OO0O0O',
+  '159.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/133  名字是
+[
+  'Defraggler: 来自CCleaner开发商的磁盘整理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDU1ODUyODQ2LnBuZwO0O0OO0O0O',
+  '189.00-269.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/132  名字是
+[
+  'Default Folder X: 打开/保存 对话框功能增强工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDU1NjU1NjU4LnBuZwO0O0OO0O0O',
+  '139.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/130  名字是
+[
+  'DaisyDisk: 磁盘空间扫描工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDU0NjI5NTU4LnBuZwO0O0OO0O0O',
+  '69.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/129  名字是
+[
+  'CPUBalance: 专注优化 CPU 性能',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQyOTIwMzQ1LnBuZwO0O0OO0O0O',
+  '35.00-55.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/128  名字是
+[
+  'Connectify HotSpot: WiFi 热点共享管理工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQyNTQ4ODkwLnBuZwO0O0OO0O0O',
+  '36.00-119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/127  名字是
+[
+  'Commander One: Total Commander 类的文件管理器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQyMjQ5MzQ0LnBuZwO0O0OO0O0O',
+  '129.00-249.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/126  名字是
+[
+  'ColorSnapper: 屏幕取色工具 PS/AI软件集成',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQyMDI1ODM4LnBuZwO0O0OO0O0O',
+  '69.00'
+]
+第 12页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/124  名字是
+[
+  'CodeKit: CSS/JS 全能前端工具 网页开发与调试',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQxNjUxMTI0LnBuZwO0O0OO0O0O',
+  '229.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/122  名字是
+[
+  'ClipboardFusion Pro: 跨平台剪贴板管理',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQxMjQ2NDc4LnBuZwO0O0OO0O0O',
+  '79.00-149.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/121  名字是
+[
+  'Charles: 网络封包分析 开发者调试工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQwODMxMjYxLnBuZwO0O0OO0O0O',
+  '199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/119  名字是
+[
+  'CCleaner Professional Plus: 专业系统维护套件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQwMzQxMTQyLnBuZwO0O0OO0O0O',
+  '259.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/118  名字是
+[
+  'CCleaner 专业版/商业版/网络版: 系统优化清理',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDM1OTUyODk0LnBuZwO0O0OO0O0O',
+  '145.00-1869.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/117  名字是
+[
+  'Capto: 录屏/编辑/管理工具 支持iOS录屏录制',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDM1MzU5Njg1LnBuZwO0O0OO0O0O',
+  '169.00-349.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/116  名字是
+[
+  'CampTune: 用 Boot Camp 管理双系统磁盘空间',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDM1MTQ2NDI0LnBuZwO0O0OO0O0O',
+  '139.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/115  名字是
+[
+  'Calendar 366 II: 菜单栏日历插件 支持自然语义',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDM0OTU5OTgzLnBuZwO0O0OO0O0O',
+  '69.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/114  名字是
+[
+  'Cacheman: 系统性能优化加速内存CPU硬盘',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDM0ODEyMTA5LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/112  名字是
+[
+  'Beyond Compare 4: 文本/代码/文件夹比较工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMzOTIzNDc2LnBuZwO0O0OO0O0O',
+  '189.00-379.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/111  名字是
+[
+  'BBEdit 13: 文本编辑器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMzNzE3NDA3LnBuZwO0O0OO0O0O',
+  '319.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/110  名字是
+[
+  'Batch Inpaint: 批量移除图片多余元素/水印',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMzMzQwNjgwLnBuZwO0O0OO0O0O',
+  '133.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/109  名字是
+[
+  'A Better Finder Rename: 文件批量重命名工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMzMTM1NTA4LnBuZwO0O0OO0O0O',
+  '79.00-169.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/108  名字是
+[
+  'AxGlyph: 专业矢量曲线图表数学公式流程图绘图软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMyNzU4MzM2LnBuZwO0O0OO0O0O',
+  '35.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/105  名字是
+[
+  'AquaSnap: 窗口管理 支持多显示器',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMyMTE5ODE0LnBuZwO0O0OO0O0O',
+  '109.00-1699.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/104  名字是
+[
+  'Amarra sQ+: 修音降噪 适用于多数流媒体/音乐播放',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMxNzI4MjU3LnBuZwO0O0OO0O0O',
+  '299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/103  名字是
+[
+  'Amarra 4 Luxe: 跨平台无损音乐播放iRC修音',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMxNTAzODI0LnBuZwO0O0OO0O0O',
+  '699.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/102  名字是
+[
+  'Amarra 4: 跨平台无损音乐播放 多格式管理',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDIyOTI0ODYwLnBuZwO0O0OO0O0O',
+  '349.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/101  名字是
+[
+  '妙笔: 专业写作软件 多种导出格式',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDI1MTU2ODcwLnBuZwO0O0OO0O0O',
+  '68.00-99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/100  名字是
+[
+  'Squash: 图片压缩转换软件 文件重命名',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDI0ODQ2MzExLnBuZwO0O0OO0O0O',
+  '85.00'
+]
+第 13页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/98  名字是
+[
+  'Rocket Typist: 文本/文字快速输入工具 高效打字',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDI0MzU1Mzk2LnBuZwO0O0OO0O0O',
+  '49.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/97  名字是
+[
+  'RapidWeaver: 网站博客设计制作软件 快速建站',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDIxNTQ1OTcyLnBuZwO0O0OO0O0O',
+  '149.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/96  名字是
+[
+  'Proxyman:  HTTP网络调试 SSL抓包分析工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDIwNzU5ODQwLnBuZwO0O0OO0O0O',
+  '199.00-249.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/95  名字是
+[
+  'PP鸭: 多格式图片压缩软件 减小文件体积大小',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDE1MTE4MzU2LnBuZwO0O0OO0O0O',
+  '69.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/94  名字是
+[
+  'PhoneClean:  iOS瘦身优化 垃圾隐私清理 提速',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDE0ODU2NTMyLnBuZwO0O0OO0O0O',
+  '49.00-89.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/93  名字是
+[
+  '万兴PDF专家: PDF修改编辑软件 原PDFelement 7',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDE0NDIzNDExLnBuZwO0O0OO0O0O',
+  '199.00-299.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/92  名字是
+[
+  'Parallels Desktop 16: 家庭和学生版 PD 15虚拟机',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MTI0OTE5MjI2LnBuZwO0O0OO0O0O',
+  '498.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/80  名字是
+[
+  '糯词笔记: Kindle 笔记管理软件 Knotes 升级版',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MTAyNjM4NTA5LnBuZwO0O0OO0O0O',
+  '8.00-268.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/79  名字是
+[
+  'iText: 截图PDF图片转文字OCR分段 翻译校对',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MTAyMjUzOTAxLnBuZwO0O0OO0O0O',
+  '8.00-78.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/78  名字是
+[
+  'iPic: 主流图床上传工具 支持 Markdown 语法',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDkwNjU3NDc5LnBuZwO0O0OO0O0O',
+  '6.00-60.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/76  名字是
+[
+  'Folder Colorizer 2: 文件夹颜色修改工具 整理文件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDg1NTA5NzE2LnBuZwO0O0OO0O0O',
+  '39.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/75  名字是
+[
+  '万兴喵影: 创意视频编辑软件 原万兴神剪手喵影工厂',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDg1MDU3NzkyLnBuZwO0O0OO0O0O',
+  '19.99-199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/74  名字是
+[
+  'EssentialPIM Pro: 个人信息管理工具 日程邮件整理',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDg0MTE2OTU0LnBuZwO0O0OO0O0O',
+  '59.00-199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/73  名字是
+[
+  'EagleFiler: 文档网页邮件管理工具 搜索标记加密',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDgzNjE1NDkxLnBuZwO0O0OO0O0O',
+  '139.00-199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/72  名字是
+[
+  'Design+Code: 设计/编程课程 含视频和源文件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDgzMjU4NDM1LnBuZwO0O0OO0O0O',
+  '356.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/71  名字是
+[
+  '纯纯写作: 不丢失文本编辑器 支持云备份Markdown',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDgyODI2OTI5LnBuZwO0O0OO0O0O',
+  '125.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/70  名字是
+[
+  '泊学网: 编程学习视频 技术开发教程',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDgyNTAxNDg1LnBuZwO0O0OO0O0O',
+  '59.00-1280.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/69  名字是
+[
+  'AnyDrop:  拖拽快捷操作 动作捷径 菜单栏工具箱',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDgxODU0Mjg0LnBuZwO0O0OO0O0O',
+  '99.00-186.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/68  名字是
+[
+  '【下单立减16元】赤友 NTFS for Mac 助手: 磁盘硬盘格式读写软件注册激活码',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Eay4L2z4I3wdMfjdA7w5O5DeEey3MTEyNTE1NDIzLnBuZwO0O0OO0O0O',
+  '36.00-55.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/65  名字是
+[
+  'Office 365 个人版家庭版 / Office 2019 / Office 2016 Word Excel PPT',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTIwMzUxMjU4LnBuZwO0O0OO0O0O',
+  '269.00-748.00'
+]
+第 14页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/64  名字是
+[
+  'Zoommy: 一键搜索海量免费高清图片 50+图库',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEzMjU4OTA2LnBuZwO0O0OO0O0O',
+  '39.00-69.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/63  名字是
+[
+  'Uninstall Tool: 多功能专业级卸载工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEzMTQwNjU3LnBuZwO0O0OO0O0O',
+  '99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/62  名字是
+[
+  'Permute 3: 图片音视频多媒体格式转换',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEzMDI5MjYxLnBuZwO0O0OO0O0O',
+  '69.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/61  名字是
+[
+  'PDF Expert 2 - Mac上优秀的PDF阅读编辑工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEyOTIxMjE2LnBuZwO0O0OO0O0O',
+  '169.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/60  名字是
+[
+  'Office Tab: 为Office套件添加标签功能',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEyODEwMTE1LnBuZwO0O0OO0O0O',
+  '69.00-99.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/58  名字是
+[
+  'Listary Pro: 本地文件搜索工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEyNTQ2NDkzLnBuZwO0O0OO0O0O',
+  '65.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/55  名字是
+[
+  'GoodSync: 本地/网盘文件同步备份工具 v11',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Aaz4L2z4I3wdMfjdA7w5N5jeAez3MTAwOTQ0NzcxLnBuZwO0O0OO0O0O',
+  '119.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/52  名字是
+[
+  'cFosSpeed: 网络优化工具 减少延迟',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTExMTUzNjk2LnBuZwO0O0OO0O0O',
+  '49.90'
+]
+这是地址：https://store.lizhi.io/site/products/id/51  名字是
+[
+  'Bartender 4: 菜单栏图标管理工具 支持 Big Sur Bartender 3',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6j8Ia14L2z4I3wdMfjdE7w5M5jeIe13MDk1NDQxMjI5LnBuZwO0O0OO0O0O',
+  '89.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/50  名字是
+[
+  'AxMath: 专业数学公式编辑排版工具',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEwODM3NDg3LnBuZwO0O0OO0O0O',
+  '35.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/49  名字是
+[
+  'Apowersoft 视频转换王: 视频格式转换软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEwNjU5MTc3LnBuZwO0O0OO0O0O',
+  '41.30-139.30'
+]
+这是地址：https://store.lizhi.io/site/products/id/47  名字是
+[
+  'XMind 2020: 轻量思维导图脑图软件 XMind ZEN',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEwMDE2NjIxLnBuZwO0O0OO0O0O',
+  '236.00-349.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/45  名字是
+[
+  '天若 OCR: 图片文字识别翻译 截图标注贴图',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTA0NDE5MzQ5LnBuZwO0O0OO0O0O',
+  '59.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/44  名字是
+[
+  'Quicker: 效率工具 软件启动器 快捷指令 捷径',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTAwNzQ1NTIwLnBuZwO0O0OO0O0O',
+  '57.60'
+]
+这是地址：https://store.lizhi.io/site/products/id/43  名字是
+[
+  'MoneyWiz 3: 跨平台记账工具 全平台版已支持V3',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTAwMTQyMzcwLnBuZwO0O0OO0O0O',
+  '149.00-169.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/42  名字是
+[
+  'MarginNote 3: 电子阅读器 文档摘录阅读学习笔记',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDk1MzAwNDkxLnBuZwO0O0OO0O0O',
+  '48.30-195.30'
+]
+这是地址：https://store.lizhi.io/site/products/id/41  名字是
+[
+  'iSlide: 会员 PPT 学习/设计/辅助插件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Aa24L2z4I3wdMfjdA7w5O5DeAe23MDk0OTU1NzEyLnBuZwO0O0OO0O0O',
+  '99.00-114.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/40  名字是
+[
+  'Groupy: 所有软件窗口多合一工具 软件标签化',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDkyNzQ2ODU1LnBuZwO0O0OO0O0O',
+  '36.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/39  名字是
+[
+  'Fences - 栅栏桌面 桌面图标自动整理软件 激活码',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDkxOTQ4MzE0LnBuZwO0O0OO0O0O',
+  '49.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/38  名字是
+[
+  'Eagle: 图片设计收藏 素材整理 图库管理软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ea04L2z4I3wdMfjdE7w5M5TeEe03MDYyMTExNTU2LnBuZwO0O0OO0O0O',
+  '199.00'
+]
+第 15页-20条-数据已爬取完毕
+这是地址：https://store.lizhi.io/site/products/id/37  名字是
+[
+  '扫描全能王: 1个月升级会员VIP卡兑换码7天1年高级帐户',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDkwMzM4NDI5LnBuZwO0O0OO0O0O',
+  '6.90-175.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/36  名字是
+[
+  '白描会员: 图片转文字OCR PDF文档扫描 APP',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDg0MjQzNDU0LnBuZwO0O0OO0O0O',
+  '10.00-25.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/35  名字是
+[
+  'Apowersoft 视频编辑王: 专业视频设计编辑制作',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDgyNjU2OTk1LnBuZwO0O0OO0O0O',
+  '48.30-139.30'
+]
+这是地址：https://store.lizhi.io/site/products/id/34  名字是
+[
+  'ApowerREC: 电脑/手机屏幕录屏软件 Apowersoft',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDgyMDA4NjE5LnBuZwO0O0OO0O0O',
+  '48.30-139.30'
+]
+这是地址：https://store.lizhi.io/site/products/id/33  名字是
+[
+  'ApowerMirror: 手机投屏录制软件 Apowersoft',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDgwMTE5MTg3LnBuZwO0O0OO0O0O',
+  '34.30-125.30'
+]
+这是地址：https://store.lizhi.io/site/products/id/32  名字是
+[
+  'MacBooster: 系统优化清理工具 删除恶意软件和病毒',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDczNzQyODA0LnBuZwO0O0OO0O0O',
+  '59.00-199.00'
+]
+这是地址：https://store.lizhi.io/site/products/id/31  名字是
+[
+  'AdGuard - 多平台广告拦截软件',
+  'https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDEwOTUxNTkyLnBuZwO0O0OO0O0O',
+  '5.00-250.00'
+]
+
+16161616161616161616161页
+
+
+

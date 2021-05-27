@@ -1,0 +1,98 @@
+phoneApp = [
+    {
+        "goodUrl": "https://store.lizhi.io/site/products/id/436",
+        "title": "Varlens Pro: 微单级手机摄影软件 专业摄影 App",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYzMzM2ODY1LnBuZwO0O0OO0O0O",
+        "price": "18.00-99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/428",
+        "title": "MT 管理器: Android文件管理 APK逆向修改资源混淆",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ea34L2z4I3wdMfjdE7w5M5zeEe33MDk1MDEyODM4LnBuZwO0O0OO0O0O",
+        "price": "19.00-125.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/407",
+        "title": "福昕PDF阅读器（移动版）: PDF阅读编辑注释 PDF格式转换",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ea04L2z4I3wdMfjdE7w5M5TeEe03MDExNjQyNDg4LnBuZwO0O0OO0O0O",
+        "price": "48.00-178.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/393",
+        "title": "ProtoPie: 手机应用原型工具 无需代码",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Eaw4L2z4I3wdMfjdA7x5M5jeEew3MDkxMTQ2ODY2LnBuZwO0O0OO0O0O",
+        "price": "429.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/372",
+        "title": "flowkey: 自学钢琴入门提升课 钢琴谱教学App",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa54L2z4I3wdMfjdA7w5O5TeAe53MDM0NDI4NzYzLnBuZwO0O0OO0O0O",
+        "price": "98.00-1298.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/349",
+        "title": "潮汐: 冥想专注番茄钟 呼吸放松白噪音助眠App",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Eay4L2z4I3wdMfjdA7w5O5DeEey3MDQ1NzA3NzAwLnBuZwO0O0OO0O0O",
+        "price": "8.00-178.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/347",
+        "title": "50音起源: 0基础日语入门 五十音图假名学习App",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Aa14L2z4I3wdMfjdA7w5O5DeAe13MDU1MDAwODgxLnBuZwO0O0OO0O0O",
+        "price": "12.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/346",
+        "title": "WinExt: Windows注册表修复 系统清理隐私保护工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Aa14L2z4I3wdMfjdA7w5O5DeAe13MDQ0MjAwNjQ3LnBuZwO0O0OO0O0O",
+        "price": "79.00-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/345",
+        "title": "Bandizip: 文件解压缩 压缩包浏览编辑管理工具 企业版",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Ia24L2z4I3wdMfjdA7w5M5zeIe23MDIxMzMyMzE5LnBuZwO0O0OO0O0O",
+        "price": "266.00-99999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/344",
+        "title": "Dislike: 日常生活待办及提醒清单 日程规划",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ia54L2z4I3wdMfjdA7w5N5zeIe53MTAwODA1NDQxLnBuZwO0O0OO0O0O",
+        "price": "15.00-168.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/343",
+        "title": "红线: 化妆品管理工具 保存使用记录过期提醒",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ia54L2z4I3wdMfjdA7w5N5zeIe53MDkxODM1ODAyLnBuZwO0O0OO0O0O",
+        "price": "22.50"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/342",
+        "title": "WindowTop: 窗口置顶透明度修改工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Iay4L2z4I3wdMfjdA7w5N5zeIey3MDY0NjU2NDY5LnBuZwO0O0OO0O0O",
+        "price": "39.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/321",
+        "title": "远离手机: 自律专注App 强制锁定手机减少依赖",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6T8Iaw4L2z4I3wdMfjdA7w5N5TeIew3MDYzOTE2ODQ3LnBuZwO0O0OO0O0O",
+        "price": "10.00-74.25"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/436",
+        "title": "Varlens Pro: 微单级手机摄影软件 专业摄影 App",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYzMzM2ODY1LnBuZwO0O0OO0O0O",
+        "price": "18.00-99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/428",
+        "title": "MT 管理器: Android文件管理 APK逆向修改资源混淆",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ea34L2z4I3wdMfjdE7w5M5zeEe33MDk1MDEyODM4LnBuZwO0O0OO0O0O",
+        "price": "19.00-125.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/36",
+        "title": "白描会员: 图片转文字OCR PDF文档扫描 APP",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDg0MjQzNDU0LnBuZwO0O0OO0O0O",
+        "price": "10.00-25.00"
+      }
+]

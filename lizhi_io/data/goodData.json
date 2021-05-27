@@ -1,0 +1,1838 @@
+data = [
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/437",
+        "title": "ToDesk - 安全好用流畅远程控制软件 替代TeamViewer",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6T8Aa34L2z4I3wdMfjdE7w5N5TeAe33MDI1MDQ1MjEyLnBuZwO0O0OO0O0O",
+        "price": "108.00-1999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/436",
+        "title": "Varlens Pro: 微单级手机摄影软件 专业摄影 App",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYzMzM2ODY1LnBuZwO0O0OO0O0O",
+        "price": "18.00-99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/435",
+        "title": "NXPowerLite Desktop: 文档压缩批量瘦身工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYwMzI3MjE3LnBuZwO0O0OO0O0O",
+        "price": "245.65-296.65"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/434",
+        "title": "Ashampoo Photo Commander: 多功能照片编辑管理器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQxNjA1MzU2LnBuZwO0O0OO0O0O",
+        "price": "71.10"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/433",
+        "title": "Ashampoo Driver Updater: 专业驱动更新安装工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQwNjA0NzU2LnBuZwO0O0OO0O0O",
+        "price": "62.10"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/432",
+        "title": "dotUltimate: JetBrains .NET开发工具合集 VS拓展",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia54L2z4I3wdMfjdE7w5M5zeIe53MDkxNzQ3OTk1LnBuZwO0O0OO0O0O",
+        "price": "959.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/431",
+        "title": "Ashampoo Backup Pro: 电脑数据备份 加密恢复软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Aa34L2z4I3wdMfjdE7w5N5DeAe33MDgxMzQzNTI3LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/430",
+        "title": "Ashampoo PDF Pro: 通用PDF编辑器 文档转换加密",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDg1NTEzMjA1LnBuZwO0O0OO0O0O",
+        "price": "139.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/429",
+        "title": "Ashampoo WinOptimizer: 系统优化提速磁盘清理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDc1NTE4NDk5LnBuZwO0O0OO0O0O",
+        "price": "129.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/428",
+        "title": "MT 管理器: Android文件管理 APK逆向修改资源混淆",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ea34L2z4I3wdMfjdE7w5M5zeEe33MDk1MDEyODM4LnBuZwO0O0OO0O0O",
+        "price": "19.00-125.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/427",
+        "title": "WebStorm: JetBrains 智能JavaScript IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDkwNzM5NzA0LnBuZwO0O0OO0O0O",
+        "price": "379.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/426",
+        "title": "RubyMine: JetBrains Ruby与Rails多语言IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTI1OTQ3MzQxLnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/425",
+        "title": "Rider: JetBrains 高速跨平台.NET IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTEyOTA5OTg3LnBuZwO0O0OO0O0O",
+        "price": "899.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/424",
+        "title": "ReSharper: JetBrains .NET开发Visual Studio扩展",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MjQxNzUxLnBuZwO0O0OO0O0O",
+        "price": "829.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/423",
+        "title": "PyCharm: JetBrains 专业级Python IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDQyMTIzMTA2LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/422",
+        "title": "PhpStorm: JetBrains 高效智能PHP IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDUyMjIyNDQ5LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/421",
+        "title": "GoLand: JetBrains 专业Go语言跨平台IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MDE1NzUyMjY2LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/420",
+        "title": "DataGrip: JetBrains SQL多数据库IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTAwMTM3OTAwLnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/419",
+        "title": "CLion: JetBrains 支持C/C++的跨平台IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MDU5MTg3LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/418",
+        "title": "AppCode: JetBrains 适用iOS/macOS开发的智能IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTIwMTI3MzEwLnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/417",
+        "title": "IntelliJ IDEA Ultimate: JetBrains Java IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aaz4L2z4I3wdMfjdA7w5M5zeAez3MTIwNjE5MTcwLnBuZwO0O0OO0O0O",
+        "price": "959.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/416",
+        "title": "JetBrains All Products Pack: 编程开发工具集",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aaz4L2z4I3wdMfjdA7w5M5zeAez3MTA1NzA4NjA4LnBuZwO0O0OO0O0O",
+        "price": "1599.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/415",
+        "title": "一个人工智能的诞生: 基本操作网站 交互视频课",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6j8Aa54L2z4I3wdMfjdE7w5M5jeAe53MDk1OTExNzA4LnBuZwO0O0OO0O0O",
+        "price": "49.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/414",
+        "title": "jpgHD: 人像图片无损变高清 老照片修复降噪放大",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6j8Aa34L2z4I3wdMfjdE7w5M5jeAe33MDUyNDQ5MTM4LnBuZwO0O0OO0O0O",
+        "price": "30.00-180.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/413",
+        "title": "福昕 PDF 365: 在线PDF转换压缩 文档编辑处理",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6j8Aaz4L2z4I3wdMfjdE7w5M5jeAez3MDUyOTA4MjI2LnBuZwO0O0OO0O0O",
+        "price": "49.00-68.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/412",
+        "title": "010 Editor: 十六进制编辑器 文本代码编辑",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ia34L2z4I3wdMfjdE7w5M5TeIe33MDk0OTUzNjMwLnBuZwO0O0OO0O0O",
+        "price": "325.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/411",
+        "title": "BitDock: Windows桌面美化 Mac风格Dock栏",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ia34L2z4I3wdMfjdE7w5M5TeIe33MDg0ODE2NDcyLnBuZwO0O0OO0O0O",
+        "price": "1.00-99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/409",
+        "title": "虫洞: iPhone安卓投屏操控 电脑手机多屏协同",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Iaw4L2z4I3wdMfjdE7w5M5TeIew3MDYzODU2NDIxLnBuZwO0O0OO0O0O",
+        "price": "45.00-89.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/408",
+        "title": "福昕会员: PDF 编辑转换 在线服务权益",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ea04L2z4I3wdMfjdE7w5M5TeEe03MDE0MzUzMzc4LnBuZwO0O0OO0O0O",
+        "price": "79.00-595.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/407",
+        "title": "福昕PDF阅读器（移动版）: PDF阅读编辑注释 PDF格式转换",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ea04L2z4I3wdMfjdE7w5M5TeEe03MDExNjQyNDg4LnBuZwO0O0OO0O0O",
+        "price": "48.00-178.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/403",
+        "title": "Advanced Password Recovery Suite: 密码恢复套件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Aa34L2z4I3wdMfjdE7w5M5TeAe33MDU0OTIyNzYzLnBuZwO0O0OO0O0O",
+        "price": "69.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/402",
+        "title": "蜜蜂剪辑: 轻量级视频剪辑软件 字幕特效素材",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Maw4L2z4I3wdMfjdA7x5M5jeMew3MTEwMTMxNDE2LnBuZwO0O0OO0O0O",
+        "price": "48.30-139.30"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/401",
+        "title": "达芬奇配色: 设计师PS调色插件 在线配色库",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Maw4L2z4I3wdMfjdA7x5M5jeMew3MDY0MTI3OTg5LnBuZwO0O0OO0O0O",
+        "price": "88.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/400",
+        "title": "Seer: 空格键快速预览文件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ia04L2z4I3wdMfjdA7x5M5jeIe03MDYxNDI3OTgyLnBuZwO0O0OO0O0O",
+        "price": "69.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/399",
+        "title": "为知笔记个人版: 全能笔记工具 知识管理利器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ia04L2z4I3wdMfjdA7x5M5jeIe03MDM1MDI3MjU4LnBuZwO0O0OO0O0O",
+        "price": "59.00-179.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/398",
+        "title": "上首字体: 创意类美观字体 正版个人非商用字体",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ia04L2z4I3wdMfjdA7x5M5jeIe03MTA1NzAzNjQ0LnBuZwO0O0OO0O0O",
+        "price": "79.00-398.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/397",
+        "title": "极度公式: 专业Latex公式识别软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Iaz4L2z4I3wdMfjdA7x5M5jeIez3MDE0NTQwMjQ4LnBuZwO0O0OO0O0O",
+        "price": "20.00-399.20"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/396",
+        "title": "稻壳儿会员: 海量文档 Office PPT Excel 模板素材 VIP 稻壳 月卡年卡",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eay4L2z4I3wdMfjdA7w5M5jeEey3MDM1MzAwODE5LnBuZwO0O0OO0O0O",
+        "price": "15.00-89.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/393",
+        "title": "ProtoPie: 手机应用原型工具 无需代码",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Eaw4L2z4I3wdMfjdA7x5M5jeEew3MDkxMTQ2ODY2LnBuZwO0O0OO0O0O",
+        "price": "429.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/392",
+        "title": "简悦: 浏览器阅读模式插件 知识管理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ea24L2z4I3wdMfjdA7x5M5jeEe23MDI1OTI5MTUxLnBuZwO0O0OO0O0O",
+        "price": "16.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/391",
+        "title": "阅读记录: 阅读统计与笔记 读书辅助工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Aay4L2z4I3wdMfjdA7x5M5jeAey3MDk1NzAzNDI3LnBuZwO0O0OO0O0O",
+        "price": "86.00-196.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/388",
+        "title": "Realistic Paint Studio: 智能数字绘画软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6T8Ia14L2z4I3wdMfjdA7x5M5TeIe13MDgxNjQ5NjEzLnBuZwO0O0OO0O0O",
+        "price": "125.00-165.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/386",
+        "title": "3type 字体: 创新国际字体 多语言 多场景设计",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6T8Iaw4L2z4I3wdMfjdA7x5M5TeIew3MDQ0OTUyOTUzLnBuZwO0O0OO0O0O",
+        "price": "99.00-399.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/384",
+        "title": "Apowersoft Unlimited: 傲软旗下专业软件合集",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6D8Ia24L2z4I3wdMfjdA7x5M5DeIe23MDgyNDU2OTA2LnBuZwO0O0OO0O0O",
+        "price": "174.30"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/383",
+        "title": "PickMeApp: 跨设备软件搬家卸载管理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6D8Ia24L2z4I3wdMfjdA7x5M5DeIe23MDYyNjAyNzQ3LnBuZwO0O0OO0O0O",
+        "price": "69.00-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/382",
+        "title": "PixelSnap 2: 界面元素测量参考线 设计辅助工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6D8Ia24L2z4I3wdMfjdA7x5M5DeIe23MDUyOTUwNTQzLnBuZwO0O0OO0O0O",
+        "price": "199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/381",
+        "title": "CleanShot X: 截图录屏贴图 长截图标注分享工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6D8Iaz4L2z4I3wdMfjdA7x5M5DeIez3MTAzNTE5OTE4LnBuZwO0O0OO0O0O",
+        "price": "149.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/377",
+        "title": "捧读: 学日语语法结构分析 日文词性注解与翻译",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Ia44L2z4I3wdMfjdA7w5O5TeIe43MDQxMjM0NzA2LnBuZwO0O0OO0O0O",
+        "price": "65.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/376",
+        "title": "EasyShu: Excel图表专业插件 数据分析与可视化",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Ia14L2z4I3wdMfjdA7w5O5TeIe13MDcwNTQxNjM0LmpwZwO0O0OO0O0O",
+        "price": "8.00-598.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/375",
+        "title": "设计助理: PS设计插件 字体样式管理PSD模板库",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Iaz4L2z4I3wdMfjdA7w5O5TeIez3MTAwOTQwMTA4LnBuZwO0O0OO0O0O",
+        "price": "79.00-238.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/374",
+        "title": "墨刀: 产品原型交互设计工具 产品经理协作平台",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Ea24L2z4I3wdMfjdA7w5O5TeEe23MDQyODQ1ODAxLnBuZwO0O0OO0O0O",
+        "price": "199.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/373",
+        "title": "Mountain Duck: 多网盘挂载本地工具 文件同步",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa54L2z4I3wdMfjdA7w5O5TeAe53MDQwMjEzODk2LnBuZwO0O0OO0O0O",
+        "price": "139.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/372",
+        "title": "flowkey: 自学钢琴入门提升课 钢琴谱教学App",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa54L2z4I3wdMfjdA7w5O5TeAe53MDM0NDI4NzYzLnBuZwO0O0OO0O0O",
+        "price": "98.00-1298.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/371",
+        "title": "Nginx 核心知识 100 讲: 百万并发下的 Nginx 性能优化之道",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkyOTM3Mjc4LnBuZwO0O0OO0O0O",
+        "price": "129.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/370",
+        "title": "许式伟的架构课: 从源头出发，带你重新理解架构设计",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkyOTQ4NzA2LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/369",
+        "title": "算法面试通关 40 讲: 前 Facebook 工程师带你吃透大厂面试题",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzMTA0MjEzLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/368",
+        "title": "Elasticsearch 核心技术与实战: 快速构建分布式搜索和分析引擎",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzMjUwODUyLnBuZwO0O0OO0O0O",
+        "price": "129.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/367",
+        "title": "趣谈 Linux 操作系统: 像故事一样的操作系统入门课",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzMzQyOTQ5LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/365",
+        "title": "Go 语言核心 36 讲: 3 个月带你通关 Go 语言",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNTExOTQ2LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/364",
+        "title": "程序员的数学基础课: 在实战中重新理解数学",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNTM1OTk2LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/363",
+        "title": "设计模式之美: 前 Google 工程师手把手教你写高质量代码",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNjA5OTU1LnBuZwO0O0OO0O0O",
+        "price": "199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/362",
+        "title": "Linux 性能优化实战: 10 分钟帮你找到系统瓶颈",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNjQyNjcxLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/361",
+        "title": "深入拆解 Java 虚拟机: Oracle 高级研究员手把手带你入门 JVM",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNzEzMjE3LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/360",
+        "title": "玩转 Spring 全家桶: 一站通关 Spring、Spring Boot 与 Spring Cloud",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzODI2NjA0LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/359",
+        "title": "深入剖析 Kubernetes: Kubernetes 原来可以如此简单",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzODQwMzAxLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/358",
+        "title": "重学前端: 每天 10 分钟，重构你的前端知识体系",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzOTA4OTk2LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/357",
+        "title": "趣谈网络协议: 像小说一样的网络协议入门课",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzOTM2OTAwLnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/356",
+        "title": "从 0 开始学架构: 前阿里 P9 技术专家的实战架构心法",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzOTQ5MTc5LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/355",
+        "title": "左耳听风: 洞悉技术的本质，享受科技的乐趣",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MDAxOTI3LnBuZwO0O0OO0O0O",
+        "price": "199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/354",
+        "title": "Java 核心技术面试精讲: 前 Oracle 首席工程师带你修炼 Java 内功",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MDIzNzQ1LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/353",
+        "title": "MySQL 实战 45 讲: 从原理到实战，丁奇带你搞懂 MySQL",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MTE2NjMxLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/352",
+        "title": "数据结构与算法之美: 为工程师量身打造的数据结构与算法私教课",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MTI5MjY5LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/351",
+        "title": "Auto Mail Sender: 邮件自动发送器 定时发件调度",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Ia24L2z4I3wdMfjdA7w5O5DeIe23MTE0NzIxMzg0LnBuZwO0O0OO0O0O",
+        "price": "29.00-1599.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/350",
+        "title": "色采: 手机取色智能配色助手 设计色卡管理",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Eay4L2z4I3wdMfjdA7w5O5DeEey3MDgzNjQyOTk1LnBuZwO0O0OO0O0O",
+        "price": "8.00-70.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/349",
+        "title": "潮汐: 冥想专注番茄钟 呼吸放松白噪音助眠App",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Eay4L2z4I3wdMfjdA7w5O5DeEey3MDQ1NzA3NzAwLnBuZwO0O0OO0O0O",
+        "price": "8.00-178.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/347",
+        "title": "50音起源: 0基础日语入门 五十音图假名学习App",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Aa14L2z4I3wdMfjdA7w5O5DeAe13MDU1MDAwODgxLnBuZwO0O0OO0O0O",
+        "price": "12.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/346",
+        "title": "WinExt: Windows注册表修复 系统清理隐私保护工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Aa14L2z4I3wdMfjdA7w5O5DeAe13MDQ0MjAwNjQ3LnBuZwO0O0OO0O0O",
+        "price": "79.00-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/345",
+        "title": "Bandizip: 文件解压缩 压缩包浏览编辑管理工具 企业版",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Ia24L2z4I3wdMfjdA7w5M5zeIe23MDIxMzMyMzE5LnBuZwO0O0OO0O0O",
+        "price": "266.00-99999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/344",
+        "title": "Dislike: 日常生活待办及提醒清单 日程规划",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ia54L2z4I3wdMfjdA7w5N5zeIe53MTAwODA1NDQxLnBuZwO0O0OO0O0O",
+        "price": "15.00-168.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/343",
+        "title": "红线: 化妆品管理工具 保存使用记录过期提醒",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ia54L2z4I3wdMfjdA7w5N5zeIe53MDkxODM1ODAyLnBuZwO0O0OO0O0O",
+        "price": "22.50"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/342",
+        "title": "WindowTop: 窗口置顶透明度修改工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Iay4L2z4I3wdMfjdA7w5N5zeIey3MDY0NjU2NDY5LnBuZwO0O0OO0O0O",
+        "price": "39.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/341",
+        "title": "QQ音乐会员",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea34L2z4I3wdMfjdA7w5N5zeEe33MDM1MjAwNTM5LnBuZwO0O0OO0O0O",
+        "price": "8.00-168.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/340",
+        "title": "优酷视频会员",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea34L2z4I3wdMfjdA7w5N5zeEe33MTE0NTI2NjI1LnBuZwO0O0OO0O0O",
+        "price": "8.50-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/339",
+        "title": "芒果TV视频会员",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea14L2z4I3wdMfjdA7w5N5zeEe13MDc0MTQ2OTU4LnBuZwO0O0OO0O0O",
+        "price": "5.00-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/338",
+        "title": "爱奇艺视频会员",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea14L2z4I3wdMfjdA7w5N5zeEe13MDEyNjA1NzA3LnBuZwO0O0OO0O0O",
+        "price": "12.00-618.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/335",
+        "title": "Microsoft 365 一对一服务（含视频教程+软件体验）",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Eaw4L2z4I3wdMfjdA7w5N5zeEew3MDUzMzMzOTkzLnBuZwO0O0OO0O0O",
+        "price": "99.00-319.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/333",
+        "title": "Moment: 倒数日时间进度 纪念日提醒工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Aa44L2z4I3wdMfjdA7w5N5zeAe43MDI1NjQ5ODgyLnBuZwO0O0OO0O0O",
+        "price": "21.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/332",
+        "title": "OpenWebMonitor: 网页内容监控器 变化实时通知",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Ia04L2z4I3wdMfjdA7w5N5jeIe03MTAwMjExNTk5LnBuZwO0O0OO0O0O",
+        "price": "25.00-749.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/331",
+        "title": "irreader: 跨平台RSS阅读器 网站播客聚合订阅",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Ia04L2z4I3wdMfjdA7w5N5jeIe03MDkwNTI1ODYxLnBuZwO0O0OO0O0O",
+        "price": "12.00-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/330",
+        "title": "RadiAnt DICOM Viewer: X光线CT医学图像PACS浏览器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Ia04L2z4I3wdMfjdA7w5N5jeIe03MDcwNDQ4OTU1LnBuZwO0O0OO0O0O",
+        "price": "58.00-1299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/325",
+        "title": "IDM - Windows高速下载软件 internet download manager",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEyNDQyMzg1LnBuZwO0O0OO0O0O",
+        "price": "3.00-129.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/324",
+        "title": "Guitar Pro 7: 吉他/贝斯打谱识谱软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Aay4L2z4I3wdMfjdA7w5N5jeAey3MTIwNjI3MTM1LnBuZwO0O0OO0O0O",
+        "price": "199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/322",
+        "title": "20秒护眼: 软件屏幕亮度调节app注册激活码支持安卓",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6T8Ia34L2z4I3wdMfjdA7w5N5TeIe33MDIyNDUyMjY5LnBuZwO0O0OO0O0O",
+        "price": "5.00-10.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/321",
+        "title": "远离手机: 自律专注App 强制锁定手机减少依赖",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6T8Iaw4L2z4I3wdMfjdA7w5N5TeIew3MDYzOTE2ODQ3LnBuZwO0O0OO0O0O",
+        "price": "10.00-74.25"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/319",
+        "title": "Soulver 3: 智能记事本 自然语义计算器 单位换算",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6T8Eaz4L2z4I3wdMfjdA7w5N5TeEez3MTEzNzE1MzQwLnBuZwO0O0OO0O0O",
+        "price": "95.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/317",
+        "title": "冰箱 Ice Box: 冻结流氓应用 省电防止后台运行",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6D8Ia54L2z4I3wdMfjdA7w5N5DeIe53MDIyMDE0MTA3LnBuZwO0O0OO0O0O",
+        "price": "25.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/316",
+        "title": "通知滤盒 Filter Box: 手机通知管理 过滤分析工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6D8Ia54L2z4I3wdMfjdA7w5N5DeIe53MDIwNjE4MzQ5LnBuZwO0O0OO0O0O",
+        "price": "30.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/315",
+        "title": "极度扫描: 跨平台OCR图片转文字 表格识别翻译",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6D8Ia54L2z4I3wdMfjdA7w5N5DeIe53MDEzMTU2MTQ2LnBuZwO0O0OO0O0O",
+        "price": "4.00-38.40"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/314",
+        "title": "密码键盘: 安全的密码管理器 可离线自动填充",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6D8Ea14L2z4I3wdMfjdA7w5N5DeEe13MTEzMjA1NDYzLnBuZwO0O0OO0O0O",
+        "price": "15.00-82.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/437",
+        "title": "ToDesk - 安全好用流畅远程控制软件 替代TeamViewer",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6T8Aa34L2z4I3wdMfjdE7w5N5TeAe33MDI1MDQ1MjEyLnBuZwO0O0OO0O0O",
+        "price": "108.00-1999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/436",
+        "title": "Varlens Pro: 微单级手机摄影软件 专业摄影 App",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYzMzM2ODY1LnBuZwO0O0OO0O0O",
+        "price": "18.00-99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/435",
+        "title": "NXPowerLite Desktop: 文档压缩批量瘦身工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYwMzI3MjE3LnBuZwO0O0OO0O0O",
+        "price": "245.65-296.65"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/434",
+        "title": "Ashampoo Photo Commander: 多功能照片编辑管理器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQxNjA1MzU2LnBuZwO0O0OO0O0O",
+        "price": "71.10"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/433",
+        "title": "Ashampoo Driver Updater: 专业驱动更新安装工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQwNjA0NzU2LnBuZwO0O0OO0O0O",
+        "price": "62.10"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/432",
+        "title": "dotUltimate: JetBrains .NET开发工具合集 VS拓展",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia54L2z4I3wdMfjdE7w5M5zeIe53MDkxNzQ3OTk1LnBuZwO0O0OO0O0O",
+        "price": "959.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/431",
+        "title": "Ashampoo Backup Pro: 电脑数据备份 加密恢复软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Aa34L2z4I3wdMfjdE7w5N5DeAe33MDgxMzQzNTI3LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/430",
+        "title": "Ashampoo PDF Pro: 通用PDF编辑器 文档转换加密",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDg1NTEzMjA1LnBuZwO0O0OO0O0O",
+        "price": "139.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/429",
+        "title": "Ashampoo WinOptimizer: 系统优化提速磁盘清理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDc1NTE4NDk5LnBuZwO0O0OO0O0O",
+        "price": "129.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/428",
+        "title": "MT 管理器: Android文件管理 APK逆向修改资源混淆",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ea34L2z4I3wdMfjdE7w5M5zeEe33MDk1MDEyODM4LnBuZwO0O0OO0O0O",
+        "price": "19.00-125.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/427",
+        "title": "WebStorm: JetBrains 智能JavaScript IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDkwNzM5NzA0LnBuZwO0O0OO0O0O",
+        "price": "379.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/426",
+        "title": "RubyMine: JetBrains Ruby与Rails多语言IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTI1OTQ3MzQxLnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/425",
+        "title": "Rider: JetBrains 高速跨平台.NET IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTEyOTA5OTg3LnBuZwO0O0OO0O0O",
+        "price": "899.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/424",
+        "title": "ReSharper: JetBrains .NET开发Visual Studio扩展",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MjQxNzUxLnBuZwO0O0OO0O0O",
+        "price": "829.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/423",
+        "title": "PyCharm: JetBrains 专业级Python IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDQyMTIzMTA2LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/422",
+        "title": "PhpStorm: JetBrains 高效智能PHP IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDUyMjIyNDQ5LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/421",
+        "title": "GoLand: JetBrains 专业Go语言跨平台IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MDE1NzUyMjY2LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/420",
+        "title": "DataGrip: JetBrains SQL多数据库IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTAwMTM3OTAwLnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/419",
+        "title": "CLion: JetBrains 支持C/C++的跨平台IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MDU5MTg3LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/418",
+        "title": "AppCode: JetBrains 适用iOS/macOS开发的智能IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTIwMTI3MzEwLnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/274",
+        "title": "Affinity Photo: 专业图像编辑工具 支持PSD",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eay4L2z4I3wdMfjdA7w5M5jeEey3MDM0OTEzNzYzLnBuZwO0O0OO0O0O",
+        "price": "299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/273",
+        "title": "Snipaste:  专业截屏贴图 标注取色工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eay4L2z4I3wdMfjdA7w5M5jeEey3MDM0MzIyMTQ5LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/271",
+        "title": "One Switch: 菜单栏便捷开关 快速切换设置工具软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eay4L2z4I3wdMfjdA7w5M5jeEey3MDMxNjU3NDg0LnBuZwO0O0OO0O0O",
+        "price": "20.30-69.30"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/270",
+        "title": "Klib: Kindle 多看标注管理 书摘笔记导出工具软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eay4L2z4I3wdMfjdA7w5M5jeEey3MDMxMzMzODUxLnBuZwO0O0OO0O0O",
+        "price": "98.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/269",
+        "title": "CleanMyPC - Windows系统垃圾清理优化软件 激活码",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwOTUzNDk2LnBuZwO0O0OO0O0O",
+        "price": "199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/268",
+        "title": "Gemini 2: 重复文件查找/清理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwODM1OTg4LnBuZwO0O0OO0O0O",
+        "price": "119.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/267",
+        "title": "ZOC Terminal: 专业终端模拟器SSH/Telnet",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwMzM3MjYxLnBuZwO0O0OO0O0O",
+        "price": "569.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/264",
+        "title": "Zentimo: U盘/移动设备管理工具移除设备更安全快速",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1ODI3NzE4LnBuZwO0O0OO0O0O",
+        "price": "79.00-149.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/263",
+        "title": "XYplorer: 强大便携的多标签文件管理器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1NTUzNDU1LnBuZwO0O0OO0O0O",
+        "price": "119.00-229.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/262",
+        "title": "XMind 8 Pro: 结构树状逻辑图思维导图脑图软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1NDE1OTE1LnBuZwO0O0OO0O0O",
+        "price": "629.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/261",
+        "title": "Workspaces 2: 在一处聚合项目资源 支持多种格式类型",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Iay4L2z4I3wdMfjdE7w5M5TeIey3MDM0OTQ0NTAyLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/260",
+        "title": "WinEdt for Win: 专业LaTeX通用文本/公式编辑器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1MTIyODczLnBuZwO0O0OO0O0O",
+        "price": "169.00-219.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/259",
+        "title": "WALTR 2: 更好的iOS多媒体传输解决方案",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE0OTQzNzE0LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/258",
+        "title": "VueMinder 专业版: 桌面日历提醒工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE0NzExOTc1LnBuZwO0O0OO0O0O",
+        "price": "119.00-249.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/257",
+        "title": "VueMinder 旗舰版: 桌面日历提醒工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE0MTExNjYwLnBuZwO0O0OO0O0O",
+        "price": "199.00-399.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/256",
+        "title": "VoiceBot: 用语音命令操控 游戏 程序",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDEzODM3MTg3LnBuZwO0O0OO0O0O",
+        "price": "49.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/254",
+        "title": "UltraEdit Suite: 文本编辑/文件管理套件 All Access",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDExODA2ODY5LnBuZwO0O0OO0O0O",
+        "price": "379.00-1199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/253",
+        "title": "UltraEdit Bundle: 代码编辑器和文件对比工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDEwNzQxNjA4LnBuZwO0O0OO0O0O",
+        "price": "309.00-759.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/252",
+        "title": "UltraEdit: 跨平台文本编辑 支持多种字符编码",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDEwNTU0MzE1LnBuZwO0O0OO0O0O",
+        "price": "279.00-699.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/251",
+        "title": "UltraCompare: 文件/文件夹区别对比工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTI1ODU1NzY3LnBuZwO0O0OO0O0O",
+        "price": "319.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/250",
+        "title": "UEStudio Suite: 代码编辑器 文件管理/传输套件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTI1MzMxMTA1LnBuZwO0O0OO0O0O",
+        "price": "1259.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/249",
+        "title": "UEStudio: 是文本编辑器 更是强大的IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTI1MDA1NzEzLnBuZwO0O0OO0O0O",
+        "price": "339.00-879.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/248",
+        "title": "uBar 4: 为Mac配一个Win风格任务栏",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTI0MTM5MjczLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/247",
+        "title": "Typinator: 常用语句快速输入神器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIyMzA5NDg4LnBuZwO0O0OO0O0O",
+        "price": "119.00-179.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/245",
+        "title": "Trym: 轻量级 SVG 图标转换/优化工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIxOTU3MzI1LnBuZwO0O0OO0O0O",
+        "price": "19.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/243",
+        "title": "Trim Enabler 4: 平衡SSD磨损 提高数据写入效率",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIxNjA0OTYwLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/242",
+        "title": "TrayStatus: 让任务栏显示系统状态",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIxNDE3Mjg5LnBuZwO0O0OO0O0O",
+        "price": "49.00-5999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/240",
+        "title": "TotalSpaces: 网格式桌面管理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIwMjI0Njc5LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/239",
+        "title": "TotalFinder: 为 Finder/访达添加标签管理",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTIwMDUxMjc1LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/238",
+        "title": "TidyTabs: 用标签管理所有窗口 屏幕更整洁",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA1NjQzNjExLnBuZwO0O0OO0O0O",
+        "price": "54.00-1499.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/237",
+        "title": "TaskPaper: 纯文本GTD工具 支持 JavaScript",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA1NDIwMzIwLnBuZwO0O0OO0O0O",
+        "price": "119.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/236",
+        "title": "tagLyst Next: 标签式资料文件收集管理软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA1MTQzOTA4LnBuZwO0O0OO0O0O",
+        "price": "48.30-118.30"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/235",
+        "title": "TablePlus: 安全可靠的高性能数据库开发工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA0OTU0OTY0LnBuZwO0O0OO0O0O",
+        "price": "349.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/234",
+        "title": "SyncMate: 易用的个人信息多设备同步工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA0ODMwNzE5LnBuZwO0O0OO0O0O",
+        "price": "89.00-179.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/233",
+        "title": "StartIsBack: 仿WIN7开始菜单",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MTA0NDI0NDQyLnBuZwO0O0OO0O0O",
+        "price": "35.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/232",
+        "title": "SQLPro Studio: 支持SQLite/MySQL/Postgres/MSSQL",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM1NzEzNDY0LnBuZwO0O0OO0O0O",
+        "price": "499.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/231",
+        "title": "SQLPro: 支持 SQLite/MySQL/Postgres/MSSQL",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM1MzQ1MjUyLnBuZwO0O0OO0O0O",
+        "price": "119.00-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/230",
+        "title": "SpyShelter Premium: 反间谍击键加密保护工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM1MDM0MzA4LnBuZwO0O0OO0O0O",
+        "price": "149.00-649.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/229",
+        "title": "SpyShelter Firewall: 网络防火墙+击键加密",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM0NzUwMjE1LnBuZwO0O0OO0O0O",
+        "price": "169.00-799.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/228",
+        "title": "Spotless: 自动化文件整理工具分类管理",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM0NDEwNTY5LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/227",
+        "title": "Speccy: 来自CCleaner开发商的硬件检测工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDM0MTU4MjQ4LnBuZwO0O0OO0O0O",
+        "price": "149.00-199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/226",
+        "title": "Sound Control 2: 控制系统应用音量 预设均衡器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6D8Iay4L2z4I3wdMfjdA7w5N5DeIey3MDMwMzU3Nzk1LnBuZwO0O0OO0O0O",
+        "price": "65.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/225",
+        "title": "SmoothScroll: 让鼠标滚动操作变得更顺滑流畅",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMzODI0ODgxLnBuZwO0O0OO0O0O",
+        "price": "65.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/224",
+        "title": "SideNotes: 侧边栏笔记工具 支持 Markdown",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMzNTQyMjU0LnBuZwO0O0OO0O0O",
+        "price": "119.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/223",
+        "title": "Short Menu: 支持 t.cn 的短链接生成工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMzMzUyODI5LnBuZwO0O0OO0O0O",
+        "price": "29.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/222",
+        "title": "Shadow Defender: 影子卫士 重启还原系统",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMzMTM2OTI1LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/221",
+        "title": "Scrivener 3: 跨平台长文写作利器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMyOTE5NjEzLnBuZwO0O0OO0O0O",
+        "price": "269.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/220",
+        "title": "ScreenFocus: 在多显示器下保持专注的效率工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMyNzQ4NzI2LnBuZwO0O0OO0O0O",
+        "price": "49.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/219",
+        "title": "Scapple: 轻量级思维导图脑图软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMyMjM5MzY0LnBuZwO0O0OO0O0O",
+        "price": "109.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/217",
+        "title": "Right Click Enhancer: 右键菜单编辑管理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMxOTAwNzU3LnBuZwO0O0OO0O0O",
+        "price": "69.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/213",
+        "title": "Recuva: 来自CCleaner开发商 误删/丢失数据恢复",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMxMDU1NjM2LnBuZwO0O0OO0O0O",
+        "price": "199.00-269.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/212",
+        "title": "QuartzCode: 将动画转化 ObjC/Swift 代码",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMwODM3NzIwLnBuZwO0O0OO0O0O",
+        "price": "259.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/211",
+        "title": "Qbserve: 具备专注模式的时间追踪器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDMwNTAwMjkyLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/210",
+        "title": "Proxifier - 多平台网络转发定向软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDI0NzQwOTE2LnBuZwO0O0OO0O0O",
+        "price": "199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/209",
+        "title": "Process Lasso 商业版 : 服务器进程优化工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDI0NTE1MTI5LnBuZwO0O0OO0O0O",
+        "price": "399.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/208",
+        "title": "Process Lasso 专业版: 实时优化系统 告别卡顿",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIzMjUzMTk1LnBuZwO0O0OO0O0O",
+        "price": "59.00-159.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/207",
+        "title": "priPrinter: 虚拟打印工具 FinePrint替代品",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIzMDM4MTYxLnBuZwO0O0OO0O0O",
+        "price": "119.00-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/206",
+        "title": "PopChar: 老牌的字体字符浏览器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIyNzQwOTcwLnBuZwO0O0OO0O0O",
+        "price": "149.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/205",
+        "title": "Picture Cutout Guide: 简单易用的抠图工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIyNTU3Mjg4LnBuZwO0O0OO0O0O",
+        "price": "109.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/204",
+        "title": "PicPick: 全功能的截图截屏/编辑工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIyNDI4NDgyLnBuZwO0O0OO0O0O",
+        "price": "149.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/202",
+        "title": "PhotoBulk: 极简一键批量图片处理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIxMDUyNjQ3LnBuZwO0O0OO0O0O",
+        "price": "85.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/201",
+        "title": "PDF Squeezer: 轻量级PDF压缩工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Eax4L2z4I3wdMfjdA7w5N5jeEex3MDMyOTM2MTc3LnBuZwO0O0OO0O0O",
+        "price": "45.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/200",
+        "title": "PDF Protector: 简单易用的PDF文件加密工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwNzI3Mjc0LnBuZwO0O0OO0O0O",
+        "price": "45.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/199",
+        "title": "PDF Image Extraction Wizard: PDF批量导出图片",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwNTMxNDYyLnBuZwO0O0OO0O0O",
+        "price": "49.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/197",
+        "title": "Paw: 全功能HTTP客户端工具 高级API开发测试软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDIwMTQyMzc4LnBuZwO0O0OO0O0O",
+        "price": "249.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/196",
+        "title": "ParkControl: 从底层实时优化电脑 预防卡顿",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1OTQ2MjM2LnBuZwO0O0OO0O0O",
+        "price": "29.00-49.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/194",
+        "title": "Paintstorm Studio: 多格式数字绘画工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1MzMwMjY2LnBuZwO0O0OO0O0O",
+        "price": "149.00-199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/193",
+        "title": "PaintCode: 生成矢量图形代码 支持多种编程语言",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE1MDIzODU0LnBuZwO0O0OO0O0O",
+        "price": "579.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/192",
+        "title": "NetLimiter: 专业网络流量限速与防火墙工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE0NzA5MTMyLnBuZwO0O0OO0O0O",
+        "price": "79.00-109.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/190",
+        "title": "MWeb: 写作/笔记/博客工具 支持Markdown格式",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eaw4L2z4I3wdMfjdA7w5M5jeEew3MDE0MjUwMzM2LnBuZwO0O0OO0O0O",
+        "price": "119.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/184",
+        "title": "MindMaster: 多平台思维导图脑图软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTE0NzEzODgzLnBuZwO0O0OO0O0O",
+        "price": "579.00-779.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/183",
+        "title": "Micro Snitch: 摄像头/麦克风防监控工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTE0NDM3NDA1LnBuZwO0O0OO0O0O",
+        "price": "29.00-119.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/182",
+        "title": "Mailbird: 精致与高效并存的第三方邮件客户端",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTE0MjIxNjEwLnBuZwO0O0OO0O0O",
+        "price": "179.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/181",
+        "title": "Macrium Reflect企业版: 静默执行备份还原支持UEFI",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgzODQ0MTU3LnBuZwO0O0OO0O0O",
+        "price": "229.00-2699.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/180",
+        "title": "Macrium Reflect家庭版: 静默执行备份还原支持UEFI",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgzNDAxOTIzLnBuZwO0O0OO0O0O",
+        "price": "199.00-399.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/178",
+        "title": "Macgo Blu-ray Player Pro: 蓝光BD播放器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgyNzE1NDc0LnBuZwO0O0OO0O0O",
+        "price": "299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/177",
+        "title": "落格输入法 2: 双拼自定义码表辅码方案拼音五笔",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgyNTE0NjU1LnBuZwO0O0OO0O0O",
+        "price": "59.00-99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/176",
+        "title": "Little Snitch 5: 防火墙 一手掌控网络连接",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgyMzUzNjQ2LnBuZwO0O0OO0O0O",
+        "price": "259.00-469.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/175",
+        "title": "LaunchBar: 键盘快捷启动与效率工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MDgyMTUxMTk3LnBuZwO0O0OO0O0O",
+        "price": "169.00-279.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/174",
+        "title": "Kutools for Word: 文本增强辅助插件 提高效率",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ia14L2z4I3wdMfjdA7x5M5jeIe13MDExMjIzMTM1LnBuZwO0O0OO0O0O",
+        "price": "119.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/437",
+        "title": "ToDesk - 安全好用流畅远程控制软件 替代TeamViewer",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6T8Aa34L2z4I3wdMfjdE7w5N5TeAe33MDI1MDQ1MjEyLnBuZwO0O0OO0O0O",
+        "price": "108.00-1999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/436",
+        "title": "Varlens Pro: 微单级手机摄影软件 专业摄影 App",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYzMzM2ODY1LnBuZwO0O0OO0O0O",
+        "price": "18.00-99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/435",
+        "title": "NXPowerLite Desktop: 文档压缩批量瘦身工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYwMzI3MjE3LnBuZwO0O0OO0O0O",
+        "price": "245.65-296.65"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/434",
+        "title": "Ashampoo Photo Commander: 多功能照片编辑管理器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQxNjA1MzU2LnBuZwO0O0OO0O0O",
+        "price": "71.10"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/433",
+        "title": "Ashampoo Driver Updater: 专业驱动更新安装工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQwNjA0NzU2LnBuZwO0O0OO0O0O",
+        "price": "62.10"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/432",
+        "title": "dotUltimate: JetBrains .NET开发工具合集 VS拓展",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia54L2z4I3wdMfjdE7w5M5zeIe53MDkxNzQ3OTk1LnBuZwO0O0OO0O0O",
+        "price": "959.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/431",
+        "title": "Ashampoo Backup Pro: 电脑数据备份 加密恢复软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Aa34L2z4I3wdMfjdE7w5N5DeAe33MDgxMzQzNTI3LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/430",
+        "title": "Ashampoo PDF Pro: 通用PDF编辑器 文档转换加密",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDg1NTEzMjA1LnBuZwO0O0OO0O0O",
+        "price": "139.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/429",
+        "title": "Ashampoo WinOptimizer: 系统优化提速磁盘清理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ia04L2z4I3wdMfjdE7w5M5zeIe03MDc1NTE4NDk5LnBuZwO0O0OO0O0O",
+        "price": "129.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/428",
+        "title": "MT 管理器: Android文件管理 APK逆向修改资源混淆",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6z8Ea34L2z4I3wdMfjdE7w5M5zeEe33MDk1MDEyODM4LnBuZwO0O0OO0O0O",
+        "price": "19.00-125.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/427",
+        "title": "WebStorm: JetBrains 智能JavaScript IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDkwNzM5NzA0LnBuZwO0O0OO0O0O",
+        "price": "379.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/426",
+        "title": "RubyMine: JetBrains Ruby与Rails多语言IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTI1OTQ3MzQxLnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/425",
+        "title": "Rider: JetBrains 高速跨平台.NET IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTEyOTA5OTg3LnBuZwO0O0OO0O0O",
+        "price": "899.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/424",
+        "title": "ReSharper: JetBrains .NET开发Visual Studio扩展",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MjQxNzUxLnBuZwO0O0OO0O0O",
+        "price": "829.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/423",
+        "title": "PyCharm: JetBrains 专业级Python IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDQyMTIzMTA2LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/422",
+        "title": "PhpStorm: JetBrains 高效智能PHP IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDUyMjIyNDQ5LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/421",
+        "title": "GoLand: JetBrains 专业Go语言跨平台IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MDE1NzUyMjY2LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/420",
+        "title": "DataGrip: JetBrains SQL多数据库IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MTAwMTM3OTAwLnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/419",
+        "title": "CLion: JetBrains 支持C/C++的跨平台IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa04L2z4I3wdMfjdA7w5M5zeAe03MDc0MDU5MTg3LnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/418",
+        "title": "AppCode: JetBrains 适用iOS/macOS开发的智能IDE",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6z8Aa14L2z4I3wdMfjdA7w5M5zeAe13MTIwMTI3MzEwLnBuZwO0O0OO0O0O",
+        "price": "579.00-9999.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/151",
+        "title": "FolderMill: 企业文档自动处理打印办公文件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTA1NzI5MjQ2LnBuZwO0O0OO0O0O",
+        "price": "3499.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/150",
+        "title": "Filmora 国际版: 高效视频编辑/创作/制作工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTA1NTE4NzgyLnBuZwO0O0OO0O0O",
+        "price": "229.00-339.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/149",
+        "title": "FilePane: 自定义文件快捷处理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTA1MjQyNzIxLnBuZwO0O0OO0O0O",
+        "price": "35.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/148",
+        "title": "FileLocator Pro - 全文检索 文件搜索软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTA1MTAxNTQ0LnBuZwO0O0OO0O0O",
+        "price": "369.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/146",
+        "title": "Expressions: 简洁优雅的正则表达式利器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTA0MjMwOTk0LnBuZwO0O0OO0O0O",
+        "price": "55.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/141",
+        "title": "亿图图示: 强大的图形图表设计工具 Edraw",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa54L2z4I3wdMfjdA7w5M5jeAe53MTAwMDAxMzgyLnBuZwO0O0OO0O0O",
+        "price": "379.00-779.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/140",
+        "title": "亿图信息图: 包含海量素材，省时高效 Edraw",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDcxMTMxMjk2LnBuZwO0O0OO0O0O",
+        "price": "279.00-679.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/139",
+        "title": "DU Meter: 网络流量监控工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYyMjM5NjA2LnBuZwO0O0OO0O0O",
+        "price": "69.00-149.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/138",
+        "title": "Duplicate Cleaner Pro: 重复文件清理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYyMDA3ODMyLnBuZwO0O0OO0O0O",
+        "price": "79.00-169.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/137",
+        "title": "DisplayFusion Pro: 窗口定制 多屏/显示器管理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYxMTQwMzYxLnBuZwO0O0OO0O0O",
+        "price": "149.00-269.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/136",
+        "title": "Disk Drill Pro: 数据恢复/误删文件找回",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYwNzMyNDg5LnBuZwO0O0OO0O0O",
+        "price": "249.00-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/135",
+        "title": "Directory Opus: 更易用的文件管理器 媲美 TC",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYwMzU5MTAwLnBuZwO0O0OO0O0O",
+        "price": "179.00-259.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/134",
+        "title": "DFX Audio Enhancer: 专业音效增强工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDYwMTI5MjAxLnBuZwO0O0OO0O0O",
+        "price": "159.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/133",
+        "title": "Defraggler: 来自CCleaner开发商的磁盘整理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDU1ODUyODQ2LnBuZwO0O0OO0O0O",
+        "price": "189.00-269.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/132",
+        "title": "Default Folder X: 打开/保存 对话框功能增强工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDU1NjU1NjU4LnBuZwO0O0OO0O0O",
+        "price": "139.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/130",
+        "title": "DaisyDisk: 磁盘空间扫描工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDU0NjI5NTU4LnBuZwO0O0OO0O0O",
+        "price": "69.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/129",
+        "title": "CPUBalance: 专注优化 CPU 性能",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQyOTIwMzQ1LnBuZwO0O0OO0O0O",
+        "price": "35.00-55.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/128",
+        "title": "Connectify HotSpot: WiFi 热点共享管理工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQyNTQ4ODkwLnBuZwO0O0OO0O0O",
+        "price": "36.00-119.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/127",
+        "title": "Commander One: Total Commander 类的文件管理器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQyMjQ5MzQ0LnBuZwO0O0OO0O0O",
+        "price": "129.00-249.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/126",
+        "title": "ColorSnapper: 屏幕取色工具 PS/AI软件集成",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQyMDI1ODM4LnBuZwO0O0OO0O0O",
+        "price": "69.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/124",
+        "title": "CodeKit: CSS/JS 全能前端工具 网页开发与调试",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQxNjUxMTI0LnBuZwO0O0OO0O0O",
+        "price": "229.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/122",
+        "title": "ClipboardFusion Pro: 跨平台剪贴板管理",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQxMjQ2NDc4LnBuZwO0O0OO0O0O",
+        "price": "79.00-149.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/121",
+        "title": "Charles: 网络封包分析 开发者调试工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQwODMxMjYxLnBuZwO0O0OO0O0O",
+        "price": "199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/119",
+        "title": "CCleaner Professional Plus: 专业系统维护套件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDQwMzQxMTQyLnBuZwO0O0OO0O0O",
+        "price": "259.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/118",
+        "title": "CCleaner 专业版/商业版/网络版: 系统优化清理",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDM1OTUyODk0LnBuZwO0O0OO0O0O",
+        "price": "145.00-1869.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/117",
+        "title": "Capto: 录屏/编辑/管理工具 支持iOS录屏录制",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDM1MzU5Njg1LnBuZwO0O0OO0O0O",
+        "price": "169.00-349.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/116",
+        "title": "CampTune: 用 Boot Camp 管理双系统磁盘空间",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDM1MTQ2NDI0LnBuZwO0O0OO0O0O",
+        "price": "139.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/115",
+        "title": "Calendar 366 II: 菜单栏日历插件 支持自然语义",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDM0OTU5OTgzLnBuZwO0O0OO0O0O",
+        "price": "69.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/114",
+        "title": "Cacheman: 系统性能优化加速内存CPU硬盘",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDM0ODEyMTA5LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/112",
+        "title": "Beyond Compare 4: 文本/代码/文件夹比较工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMzOTIzNDc2LnBuZwO0O0OO0O0O",
+        "price": "189.00-379.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/111",
+        "title": "BBEdit 13: 文本编辑器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMzNzE3NDA3LnBuZwO0O0OO0O0O",
+        "price": "319.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/110",
+        "title": "Batch Inpaint: 批量移除图片多余元素/水印",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMzMzQwNjgwLnBuZwO0O0OO0O0O",
+        "price": "133.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/109",
+        "title": "A Better Finder Rename: 文件批量重命名工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMzMTM1NTA4LnBuZwO0O0OO0O0O",
+        "price": "79.00-169.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/108",
+        "title": "AxGlyph: 专业矢量曲线图表数学公式流程图绘图软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMyNzU4MzM2LnBuZwO0O0OO0O0O",
+        "price": "35.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/105",
+        "title": "AquaSnap: 窗口管理 支持多显示器",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMyMTE5ODE0LnBuZwO0O0OO0O0O",
+        "price": "109.00-1699.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/104",
+        "title": "Amarra sQ+: 修音降噪 适用于多数流媒体/音乐播放",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMxNzI4MjU3LnBuZwO0O0OO0O0O",
+        "price": "299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/103",
+        "title": "Amarra 4 Luxe: 跨平台无损音乐播放iRC修音",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDMxNTAzODI0LnBuZwO0O0OO0O0O",
+        "price": "699.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/102",
+        "title": "Amarra 4: 跨平台无损音乐播放 多格式管理",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa44L2z4I3wdMfjdA7w5M5jeAe43MDIyOTI0ODYwLnBuZwO0O0OO0O0O",
+        "price": "349.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/101",
+        "title": "妙笔: 专业写作软件 多种导出格式",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDI1MTU2ODcwLnBuZwO0O0OO0O0O",
+        "price": "68.00-99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/100",
+        "title": "Squash: 图片压缩转换软件 文件重命名",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDI0ODQ2MzExLnBuZwO0O0OO0O0O",
+        "price": "85.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/98",
+        "title": "Rocket Typist: 文本/文字快速输入工具 高效打字",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDI0MzU1Mzk2LnBuZwO0O0OO0O0O",
+        "price": "49.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/97",
+        "title": "RapidWeaver: 网站博客设计制作软件 快速建站",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDIxNTQ1OTcyLnBuZwO0O0OO0O0O",
+        "price": "149.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/96",
+        "title": "Proxyman:  HTTP网络调试 SSL抓包分析工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDIwNzU5ODQwLnBuZwO0O0OO0O0O",
+        "price": "199.00-249.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/95",
+        "title": "PP鸭: 多格式图片压缩软件 减小文件体积大小",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDE1MTE4MzU2LnBuZwO0O0OO0O0O",
+        "price": "69.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/94",
+        "title": "PhoneClean:  iOS瘦身优化 垃圾隐私清理 提速",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDE0ODU2NTMyLnBuZwO0O0OO0O0O",
+        "price": "49.00-89.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/93",
+        "title": "万兴PDF专家: PDF修改编辑软件 原PDFelement 7",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDE0NDIzNDExLnBuZwO0O0OO0O0O",
+        "price": "199.00-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/92",
+        "title": "Parallels Desktop 16: 家庭和学生版 PD 15虚拟机",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MTI0OTE5MjI2LnBuZwO0O0OO0O0O",
+        "price": "498.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/80",
+        "title": "糯词笔记: Kindle 笔记管理软件 Knotes 升级版",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MTAyNjM4NTA5LnBuZwO0O0OO0O0O",
+        "price": "8.00-268.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/79",
+        "title": "iText: 截图PDF图片转文字OCR分段 翻译校对",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MTAyMjUzOTAxLnBuZwO0O0OO0O0O",
+        "price": "8.00-78.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/78",
+        "title": "iPic: 主流图床上传工具 支持 Markdown 语法",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDkwNjU3NDc5LnBuZwO0O0OO0O0O",
+        "price": "6.00-60.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/76",
+        "title": "Folder Colorizer 2: 文件夹颜色修改工具 整理文件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDg1NTA5NzE2LnBuZwO0O0OO0O0O",
+        "price": "39.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/75",
+        "title": "万兴喵影: 创意视频编辑软件 原万兴神剪手喵影工厂",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDg1MDU3NzkyLnBuZwO0O0OO0O0O",
+        "price": "19.99-199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/74",
+        "title": "EssentialPIM Pro: 个人信息管理工具 日程邮件整理",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDg0MTE2OTU0LnBuZwO0O0OO0O0O",
+        "price": "59.00-199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/73",
+        "title": "EagleFiler: 文档网页邮件管理工具 搜索标记加密",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDgzNjE1NDkxLnBuZwO0O0OO0O0O",
+        "price": "139.00-199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/72",
+        "title": "Design+Code: 设计/编程课程 含视频和源文件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDgzMjU4NDM1LnBuZwO0O0OO0O0O",
+        "price": "356.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/71",
+        "title": "纯纯写作: 不丢失文本编辑器 支持云备份Markdown",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDgyODI2OTI5LnBuZwO0O0OO0O0O",
+        "price": "125.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/70",
+        "title": "泊学网: 编程学习视频 技术开发教程",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDgyNTAxNDg1LnBuZwO0O0OO0O0O",
+        "price": "59.00-1280.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/69",
+        "title": "AnyDrop:  拖拽快捷操作 动作捷径 菜单栏工具箱",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDgxODU0Mjg0LnBuZwO0O0OO0O0O",
+        "price": "99.00-186.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/68",
+        "title": "【下单立减16元】赤友 NTFS for Mac 助手: 磁盘硬盘格式读写软件注册激活码",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Eay4L2z4I3wdMfjdA7w5O5DeEey3MTEyNTE1NDIzLnBuZwO0O0OO0O0O",
+        "price": "36.00-55.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/65",
+        "title": "Office 365 个人版家庭版 / Office 2019 / Office 2016 Word Excel PPT",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTIwMzUxMjU4LnBuZwO0O0OO0O0O",
+        "price": "269.00-748.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/64",
+        "title": "Zoommy: 一键搜索海量免费高清图片 50+图库",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEzMjU4OTA2LnBuZwO0O0OO0O0O",
+        "price": "39.00-69.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/63",
+        "title": "Uninstall Tool: 多功能专业级卸载工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEzMTQwNjU3LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/62",
+        "title": "Permute 3: 图片音视频多媒体格式转换",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEzMDI5MjYxLnBuZwO0O0OO0O0O",
+        "price": "69.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/61",
+        "title": "PDF Expert 2 - Mac上优秀的PDF阅读编辑工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEyOTIxMjE2LnBuZwO0O0OO0O0O",
+        "price": "169.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/60",
+        "title": "Office Tab: 为Office套件添加标签功能",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEyODEwMTE1LnBuZwO0O0OO0O0O",
+        "price": "69.00-99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/58",
+        "title": "Listary Pro: 本地文件搜索工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEyNTQ2NDkzLnBuZwO0O0OO0O0O",
+        "price": "65.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/55",
+        "title": "GoodSync: 本地/网盘文件同步备份工具 v11",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6j8Aaz4L2z4I3wdMfjdA7w5N5jeAez3MTAwOTQ0NzcxLnBuZwO0O0OO0O0O",
+        "price": "119.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/52",
+        "title": "cFosSpeed: 网络优化工具 减少延迟",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTExMTUzNjk2LnBuZwO0O0OO0O0O",
+        "price": "49.90"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/51",
+        "title": "Bartender 4: 菜单栏图标管理工具 支持 Big Sur Bartender 3",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6j8Ia14L2z4I3wdMfjdE7w5M5jeIe13MDk1NDQxMjI5LnBuZwO0O0OO0O0O",
+        "price": "89.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/50",
+        "title": "AxMath: 专业数学公式编辑排版工具",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEwODM3NDg3LnBuZwO0O0OO0O0O",
+        "price": "35.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/49",
+        "title": "Apowersoft 视频转换王: 视频格式转换软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEwNjU5MTc3LnBuZwO0O0OO0O0O",
+        "price": "41.30-139.30"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/47",
+        "title": "XMind 2020: 轻量思维导图脑图软件 XMind ZEN",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTEwMDE2NjIxLnBuZwO0O0OO0O0O",
+        "price": "236.00-349.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/45",
+        "title": "天若 OCR: 图片文字识别翻译 截图标注贴图",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTA0NDE5MzQ5LnBuZwO0O0OO0O0O",
+        "price": "59.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/44",
+        "title": "Quicker: 效率工具 软件启动器 快捷指令 捷径",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTAwNzQ1NTIwLnBuZwO0O0OO0O0O",
+        "price": "57.60"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/43",
+        "title": "MoneyWiz 3: 跨平台记账工具 全平台版已支持V3",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MTAwMTQyMzcwLnBuZwO0O0OO0O0O",
+        "price": "149.00-169.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/42",
+        "title": "MarginNote 3: 电子阅读器 文档摘录阅读学习笔记",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDk1MzAwNDkxLnBuZwO0O0OO0O0O",
+        "price": "48.30-195.30"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/41",
+        "title": "iSlide: 会员 PPT 学习/设计/辅助插件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Aa24L2z4I3wdMfjdA7w5O5DeAe23MDk0OTU1NzEyLnBuZwO0O0OO0O0O",
+        "price": "99.00-114.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/40",
+        "title": "Groupy: 所有软件窗口多合一工具 软件标签化",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDkyNzQ2ODU1LnBuZwO0O0OO0O0O",
+        "price": "36.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/39",
+        "title": "Fences - 栅栏桌面 桌面图标自动整理软件 激活码",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDkxOTQ4MzE0LnBuZwO0O0OO0O0O",
+        "price": "49.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/38",
+        "title": "Eagle: 图片设计收藏 素材整理 图库管理软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ea04L2z4I3wdMfjdE7w5M5TeEe03MDYyMTExNTU2LnBuZwO0O0OO0O0O",
+        "price": "199.00"
+      },
+  {
+        "goodUrl": "https://store.lizhi.io/site/products/id/37",
+        "title": "扫描全能王: 1个月升级会员VIP卡兑换码7天1年高级帐户",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDkwMzM4NDI5LnBuZwO0O0OO0O0O",
+        "price": "6.90-175.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/36",
+        "title": "白描会员: 图片转文字OCR PDF文档扫描 APP",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDg0MjQzNDU0LnBuZwO0O0OO0O0O",
+        "price": "10.00-25.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/35",
+        "title": "Apowersoft 视频编辑王: 专业视频设计编辑制作",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDgyNjU2OTk1LnBuZwO0O0OO0O0O",
+        "price": "48.30-139.30"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/34",
+        "title": "ApowerREC: 电脑/手机屏幕录屏软件 Apowersoft",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDgyMDA4NjE5LnBuZwO0O0OO0O0O",
+        "price": "48.30-139.30"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/33",
+        "title": "ApowerMirror: 手机投屏录制软件 Apowersoft",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDgwMTE5MTg3LnBuZwO0O0OO0O0O",
+        "price": "34.30-125.30"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/32",
+        "title": "MacBooster: 系统优化清理工具 删除恶意软件和病毒",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDczNzQyODA0LnBuZwO0O0OO0O0O",
+        "price": "59.00-199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/31",
+        "title": "AdGuard - 多平台广告拦截软件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDEwOTUxNTkyLnBuZwO0O0OO0O0O",
+        "price": "5.00-250.00"
+      }
+    ]

@@ -1,0 +1,75 @@
+// 折扣
+discount = [
+    {
+        "goodUrl": "https://store.lizhi.io/site/products/id/415",
+        "title": "一个人工智能的诞生: 基本操作网站 交互视频课",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6j8Aa54L2z4I3wdMfjdE7w5M5jeAe53MDk1OTExNzA4LnBuZwO0O0OO0O0O",
+        "price": "49.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/408",
+        "title": "福昕会员: PDF 编辑转换 在线服务权益",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2M6T8Ea04L2z4I3wdMfjdE7w5M5TeEe03MDE0MzUzMzc4LnBuZwO0O0OO0O0O",
+        "price": "79.00-595.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/398",
+        "title": "上首字体: 创意类美观字体 正版个人非商用字体",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1x2M6j8Ia04L2z4I3wdMfjdA7x5M5jeIe03MTA1NzAzNjQ0LnBuZwO0O0OO0O0O",
+        "price": "79.00-398.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/396",
+        "title": "稻壳儿会员: 海量文档 Office PPT Excel 模板素材 VIP 稻壳 月卡年卡",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Eay4L2z4I3wdMfjdA7w5M5jeEey3MDM1MzAwODE5LnBuZwO0O0OO0O0O",
+        "price": "15.00-89.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/341",
+        "title": "QQ音乐会员",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea34L2z4I3wdMfjdA7w5N5zeEe33MDM1MjAwNTM5LnBuZwO0O0OO0O0O",
+        "price": "8.00-168.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/340",
+        "title": "优酷视频会员",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea34L2z4I3wdMfjdA7w5N5zeEe33MTE0NTI2NjI1LnBuZwO0O0OO0O0O",
+        "price": "8.50-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/339",
+        "title": "芒果TV视频会员",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea14L2z4I3wdMfjdA7w5N5zeEe13MDc0MTQ2OTU4LnBuZwO0O0OO0O0O",
+        "price": "5.00-299.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/338",
+        "title": "爱奇艺视频会员",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Ea14L2z4I3wdMfjdA7w5N5zeEe13MDEyNjA1NzA3LnBuZwO0O0OO0O0O",
+        "price": "12.00-618.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/335",
+        "title": "Microsoft 365 一对一服务（含视频教程+软件体验）",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2N6z8Eaw4L2z4I3wdMfjdA7w5N5zeEew3MDUzMzMzOTkzLnBuZwO0O0OO0O0O",
+        "price": "99.00-319.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/70",
+        "title": "泊学网: 编程学习视频 技术开发教程",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa34L2z4I3wdMfjdA7w5M5jeAe33MDgyNTAxNDg1LnBuZwO0O0OO0O0O",
+        "price": "59.00-1280.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/41",
+        "title": "iSlide: 会员 PPT 学习/设计/辅助插件",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6D8Aa24L2z4I3wdMfjdA7w5O5DeAe23MDk0OTU1NzEyLnBuZwO0O0OO0O0O",
+        "price": "99.00-114.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/37",
+        "title": "扫描全能王: 1个月升级会员VIP卡兑换码7天1年高级帐户",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2M6j8Aa14L2z4I3wdMfjdA7w5M5jeAe13MDkwMzM4NDI5LnBuZwO0O0OO0O0O",
+        "price": "6.90-175.00"
+      },
+]

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="text/javascript" src="./data/goodData.json"></script>
+    <script src="./jquery.min.js"></script>
+    <script>
+        // 页面加载的时候开始计算数据
+        window.onload = goodList = () => {
+            let goodItem = "";
+            let cid = "?cid=esujndjk";
+            for (let item of data) {
+                goodItem += '<div class="items">'+
+                    '<a href='+item.goodUrl+cid+' target="_blank" >'+
+                    '<div class="img-box">'+
+                    '<img src='+ item.imgUrl+'>'+
+                    '</div>'+
+                    ' <div class="title-box">'+item.title+'</div>'+
+                    ' <div class="price-box">'+
+                        '<span class="red-price"> ￥ '+item.price+'</span></div></a></div>';
+            }
+            $("#goodList")[0].innerHTML = goodItem;
+        }
+    </script>
+</head>
+<body>
+    <div class="main-box" id="goodList">
+        <div class="items">
+            <a href="" target="_blank">
+            <div class="img-box">
+                <img src="">
+            </div>
+            <div class="title-box">
+                标题
+            </div>
+            <div class="price-box">
+                <span class="red-price">￥ 这是价格</span>
+            </div>
+        </a>
+        </div>
+    </div>
+</body>
+</html>

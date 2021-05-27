@@ -1,0 +1,28 @@
+var data = {
+  "gooddata":[
+    {
+      "title": "ToDesk - 安全好用流畅远程控制软件 替代TeamViewer",
+      "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6T8Aa34L2z4I3wdMfjdE7w5N5TeAe33MDI1MDQ1MjEyLnBuZwO0O0OO0O0O",
+      "price": "108.00-1999.00",
+      "goodUrl": "https://store.lizhi.io/site/products/id/436"
+    },
+    {
+      "title": "Varlens Pro: 微单级手机摄影软件 专业摄影 App",
+      "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYzMzM2ODY1LnBuZwO0O0OO0O0O",
+      "price": "18.00-99.00",
+      "goodUrl": "https://store.lizhi.io/site/products/id/435"
+    },
+    {
+      "title": "NXPowerLite Desktop: 文档压缩批量瘦身工具",
+      "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Ia54L2z4I3wdMfjdE7w5N5DeIe53MDYwMzI3MjE3LnBuZwO0O0OO0O0O",
+      "price": "245.65-296.65",
+      "goodUrl": "https://store.lizhi.io/site/products/id/434"
+    },
+    {
+      "title": "Ashampoo Photo Commander: 多功能照片编辑管理器",
+      "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9E1w2N6D8Iay4L2z4I3wdMfjdE7w5N5DeIey3MDQxNjA1MzU2LnBuZwO0O0OO0O0O",
+      "price": "71.10",
+      "goodUrl": "https://store.lizhi.io/site/products/id/433"
+    }
+  ]
+}

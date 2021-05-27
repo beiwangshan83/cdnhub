@@ -1,0 +1,116 @@
+book = [
+    {
+        "goodUrl": "https://store.lizhi.io/site/products/id/371",
+        "title": "Nginx 核心知识 100 讲: 百万并发下的 Nginx 性能优化之道",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkyOTM3Mjc4LnBuZwO0O0OO0O0O",
+        "price": "129.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/370",
+        "title": "许式伟的架构课: 从源头出发，带你重新理解架构设计",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkyOTQ4NzA2LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/369",
+        "title": "算法面试通关 40 讲: 前 Facebook 工程师带你吃透大厂面试题",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzMTA0MjEzLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/368",
+        "title": "Elasticsearch 核心技术与实战: 快速构建分布式搜索和分析引擎",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzMjUwODUyLnBuZwO0O0OO0O0O",
+        "price": "129.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/367",
+        "title": "趣谈 Linux 操作系统: 像故事一样的操作系统入门课",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzMzQyOTQ5LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/365",
+        "title": "Go 语言核心 36 讲: 3 个月带你通关 Go 语言",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNTExOTQ2LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/364",
+        "title": "程序员的数学基础课: 在实战中重新理解数学",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNTM1OTk2LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/363",
+        "title": "设计模式之美: 前 Google 工程师手把手教你写高质量代码",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNjA5OTU1LnBuZwO0O0OO0O0O",
+        "price": "199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/362",
+        "title": "Linux 性能优化实战: 10 分钟帮你找到系统瓶颈",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNjQyNjcxLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/361",
+        "title": "深入拆解 Java 虚拟机: Oracle 高级研究员手把手带你入门 JVM",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzNzEzMjE3LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/360",
+        "title": "玩转 Spring 全家桶: 一站通关 Spring、Spring Boot 与 Spring Cloud",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzODI2NjA0LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/359",
+        "title": "深入剖析 Kubernetes: Kubernetes 原来可以如此简单",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzODQwMzAxLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/358",
+        "title": "重学前端: 每天 10 分钟，重构你的前端知识体系",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzOTA4OTk2LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/357",
+        "title": "趣谈网络协议: 像小说一样的网络协议入门课",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzOTM2OTAwLnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/356",
+        "title": "从 0 开始学架构: 前阿里 P9 技术专家的实战架构心法",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDkzOTQ5MTc5LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/355",
+        "title": "左耳听风: 洞悉技术的本质，享受科技的乐趣",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MDAxOTI3LnBuZwO0O0OO0O0O",
+        "price": "199.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/354",
+        "title": "Java 核心技术面试精讲: 前 Oracle 首席工程师带你修炼 Java 内功",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MDIzNzQ1LnBuZwO0O0OO0O0O",
+        "price": "79.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/353",
+        "title": "MySQL 实战 45 讲: 从原理到实战，丁奇带你搞懂 MySQL",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MTE2NjMxLnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+      {
+        "goodUrl": "https://store.lizhi.io/site/products/id/352",
+        "title": "数据结构与算法之美: 为工程师量身打造的数据结构与算法私教课",
+        "imgUrl": "https://store-cdn.lizhi.io/pic/thumb/img/d8X4Bbsabe2cFck4LczbIaw7M6j9A1w2O6T8Aa34L2z4I3wdMfjdA7w5O5TeAe33MDk0MTI5MjY5LnBuZwO0O0OO0O0O",
+        "price": "99.00"
+      },
+]
