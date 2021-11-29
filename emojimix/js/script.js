@@ -367,7 +367,7 @@ const downloadEmojis = async () => {
 			loadSection.text.innerHTML = `Taking too long? Try <a href=".">refreshing</a>.`;
 		}, 1e4);
 		let fetchList = emojis.map((emoji, index) => {
-			let f = fetch(`https://tikolu.github.io/emojimix/emojis/${emoji[0].map(c => c.toString(16)).filter(c => c != "fe0f").join("_")}.svg`);
+			let f = fetch(`https://cdn.jsdelivr.net/gh/beiwangshan83/cdnhub@2.2.0/emojimix/emojis/${emoji[0].map(c => c.toString(16)).filter(c => c != "fe0f").join("_")}.svg`);
 			f.then(() => loadSection.progress.value++);
 			return f;
 		});
