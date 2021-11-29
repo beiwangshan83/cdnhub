@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh" dir="ltr">
+
+<head>
+	<meta charset="utf-8">
+	<title>emoji表情混合器</title>
+	<meta name="viewport" content="width=device-width">
+	<meta name="theme-color" content="#6e823a">
+	<meta name="description" content="Combine two emojis into one. Thousands of combinations are available.">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="icon" href="img/meowtle.png">
+	<link rel="apple-touch-icon" href="img/meowtle.png">
+	<script src="js/emojis.js"></script>
+	<script src="js/script.js" defer=""></script>
+	<script src="https://googletagmanager.com/gtag/js?id=UA-131586815-2" async=""></script>
+</head>
+
+<body>
+	<p id="site-description">将两个表情符号合并为一个。有数千种组合可供选择。</p>
+	<h1>emoji表情混合器</h1>
+	<div id="load-section" hidden="">
+		<progress id="load-progress" value="0"></progress>
+		<p id="load-text">emoji 加载中...</p>
+		<div id="donation-list">
+			<b>如果有让你开心，点击下方卡片，支持北忘山</b>
+			<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8781808763705766"
+			crossorigin="anonymous"></script>
+	   <!-- 文章页脚 -->
+	   <ins class="adsbygoogle"
+			style="display:block"
+			data-ad-client="ca-pub-8781808763705766"
+			data-ad-slot="8132682838"
+			data-ad-format="auto"
+			data-full-width-responsive="true"></ins>
+	   <script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+	   </script>
+		</div>
+		<img id="link-share-preview" draggable="false"
+			onerror="document.getElementById('donation-list').hidden = false;  downloadEmojis()"
+			onload="this.hidden = false; downloadEmojis()" hidden="">
+	</div>
+	<div id="main-section" hidden="">
+		<div id="sliders">
+			<div class="slider-buttons">
+				<div class="button search" id="search1" title="Search" onclick="searchButtonClick(event, 1)"></div>
+				<div class="button random" id="random1" title="Shuffle" onclick="slider1.random(true)"></div>
+			</div>
+			<div class="slider-container">
+				<div class="slider" id="slider1"></div>
+			</div>
+			<div>+</div>
+			<div class="slider-container">
+				<div class="slider" id="slider2"></div>
+			</div>
+			<div class="slider-buttons">
+				<div class="button search" id="search2" title="Search" onclick="searchButtonClick(event, 2)"></div>
+				<div class="button random" id="random2" title="Shuffle" onclick="slider2.random(true)"></div>
+			</div>
+		</div>
+		<div id="emoji-display" title="Click here to randomize">
+			<img id="output" draggable="false" hidden="">
+			<div id="sad-turtle" hidden=""></div>
+		</div>
+		<div id="sharing-buttons">
+			<div id="copy-image" class="button" title="Copy image" onclick="copyImage()"
+				oncontextmenu="triggerDownload(event)"></div>
+			<div id="copy-link" class="button" title="Copy link" onclick="copyLink()"></div>
+			<div id="share-image" class="button" title="Share" onclick="shareImage()"></div>
+		</div>
+		<div id="credits">
+			<p></p>
+			<p>
+				<a href="https://www.beiwangshan.com/">北忘山博客</a>
+				<a href="https://i.beiwangshan.com/">北忘山前端笔记</a>
+				<a onclick="settingsPopup.hidden = false" style="margin-left:2ch">设置</a>
+			</p>
+			<p>All graphics by Google. Website by <a href="https://tikolu.net/" target="_blank" rel="nofollow">Tikolu</a>.</p>
+		</div>
+		<div id="search-bar" hidden="">
+			<input type="text" id="search-box" enterkeyhint="search" autocomplete="off">
+			<div id="prev-search" class="button" onclick="searchBox.jump(-1)"></div>
+			<div id="next-search" class="button" onclick="searchBox.jump(1)"></div>
+		</div>
+	</div>
+	<div class="popup" id="settings-popup" hidden="">
+		<h1>设置</h1>
+		<div>
+			<label for="sound-checkbox">音效:</label>
+			<input type="checkbox" id="sound-checkbox" onchange="localStorage.setItem('emojimixSoundOn', this.checked)"
+				checked="">
+		</div>
+		<div>
+			<label for="vibration-checkbox">震动:</label>
+			<input type="checkbox" id="vibration-checkbox"
+				onchange="localStorage.setItem('emojimixVibrationOn', this.checked)" checked="">
+		</div>
+		<div class="button" onclick="settingsPopup.hidden = true">关闭</div>
+	</div>
+	<p id="information" hidden=""></p>
+
+</body>
+
+</html>
